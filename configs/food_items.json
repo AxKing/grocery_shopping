@@ -1,0 +1,18 @@
+{
+    "fish filets": {
+        "department": "meat",
+        "unit": "lb"
+    },
+    "butter": {
+        "department": "dairy",
+        "unit": "TP"
+    },
+    "kosher salt": {
+        "department": "spices",
+        "unit": "tsp"
+    },
+    "paprika": {
+        "department": "spices",
+        "unit": "tsp"
+    }
+}
