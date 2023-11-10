@@ -1,0 +1,24 @@
+Departments and items they contain
+
+"produce"
+"seafood"
+"bakery"
+"meat"
+"aisle 1": wine
+"aisle 2": beer and mixers
+"aisle 3": specialty vitamins, specialty drinks, energy bars, energy drinks, bulk foods
+"aisle 4": salad dressing, bread, tortillas & tostadas, peanut butter & jelly, latino foods, salsa/hot sauce
+"aisle 5": rice and beans, pasta & pasta sauce, olives & pickles, asian foods, condiments, vinegar
+"aisle 6": canned meat/fish/tomato, canned chili, canned fruit, canned beans, soup, boxed dinners
+"aisle 7": baking needs, gelatin, spices, flour & sugar, oil & shortening, cake mix
+"aisle 8": Cereal, hot cereal, breakfast bars, dried fruit/fruit cups, pancake mix & syrup, pudding
+"aisle 9": coffee & hot cocoa, creamers & filters cookies & crackers
+"aisle 10": chips, salty snacks, popcorn & nuts, rice cakes, wheat snacks, pretzels,
+"aisle 11": candy & gum, latino candy, coconut water, juice, juice boxes, soy/rice/almond milk
+"aisle 12": energy drinks, sparkling water, sports drinks, powdered drinks, ready to drink coffee/tea, tea
+"aisle 13": soda, ice coolers, water, bottled water, jug water
+"refrigeration"
+"frozen"
+"household"
+"personal hygiene"
+"pharmacy"
