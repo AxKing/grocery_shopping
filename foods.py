@@ -8,5 +8,5 @@ class Food(object):
 "food":{
     "department": "",
     "unit": ""
-},
+}, 
 """
