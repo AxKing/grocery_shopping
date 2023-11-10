@@ -1,18 +1,106 @@
 {
-    "fish filets": {
+    "fish filet": {
         "department": "meat",
         "unit": "lb"
     },
     "butter": {
-        "department": "dairy",
-        "unit": "TP"
+        "department": "refrigeration",
+        "unit": "tbsp"
     },
     "kosher salt": {
-        "department": "spices",
+        "department": "aisle 7",
         "unit": "tsp"
     },
     "paprika": {
-        "department": "spices",
+        "department": "aisle 7",
         "unit": "tsp"
+    },
+    "lemon":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "garlic powder": {
+        "department": "aisle 7",
+        "unit": "tsp"
+    },
+    "onion powder":{
+        "department" : "aisle 7",
+        "unit": "tsp"
+    },
+    "olive oil": {
+        "department": "aisle 7",
+        "unit": "tbsp"
+    },
+    "ground turkey": {
+        "department": "meat",
+        "unit": "lb"
+    },
+    "pinto beans":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
+    "black beans":{
+        "department":"aisle 6",
+        "unit": "can"
+    },
+    "kidney beans":{
+        "department":"aisle 6",
+        "unit": "can"
+    },
+    "navy beans":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
+    "chili packet":{
+        "department": "frozen",
+        "unit": "each"
+    },
+    "tapatio": {
+        "department": "aisle 4",
+        "unit": "tbsp"
+    },
+    "dash":{
+        "department": "aisle 7",
+        "unit": "tbsp"
+    },
+    "monster":{
+        "department": "aisle 12",
+        "unit": "can"
+    },
+    "yakult":{
+        "department": "refrigeration",
+        "unit": "pack"
+    },
+    "bananas":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "strawberries":{
+        "department": "produce",
+        "unit": "basket"
+    },
+    "blueberries":{
+        "department": "produce",
+        "unit": "basket"
+    },
+    "spaghetti noodles":{
+        "department": "aisle 5",
+        "unit": "package"
+    },
+    "spaghetti sauce":{
+        "department": "aisle 5",
+        "unit": "jar"
+    },
+    "ground sausage":{
+        "department": "meat",
+        "unit": "lb"
+    },
+    "mozzarella":{
+        "department": "refrigeration",
+        "unit": "block"
+    },
+    "garlic bread":{
+        "department": "frozen",
+        "unit": "box"
     }
 }

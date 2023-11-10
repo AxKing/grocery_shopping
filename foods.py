@@ -3,3 +3,10 @@ class Food(object):
         self.name = name
         self.department = department
         self.unit = unit
+
+"""
+"food":{
+    "department": "",
+    "unit": ""
+},
+"""

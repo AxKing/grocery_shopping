@@ -1,8 +1,8 @@
 {
-    "Lemon Butter Fish": {
+    "lemon butter fish": {
         "ingredients": [
             [
-                "fish filets",
+                "fish filet",
                 2
             ],
             [
@@ -16,7 +16,46 @@
             [
                 "paprika",
                 1
+            ],
+            [
+                "lemon",
+                3
+            ],
+            [
+                "garlic powder",
+                1
+            ],
+            [
+                "onion powder",
+                1
+            ],
+            [
+                "olive oil",
+                3
             ]
+        ]
+    },
+    "turkey chili": {
+        "ingredients" : [
+            ["ground turkey", 1],
+            ["pinto beans", 2],
+            ["black beans", 1],
+            ["kidney beans", 1],
+            ["navy beans", 1],
+            ["chili packet", 1],
+            ["dash", 3],
+            ["onion powder", 2],
+            ["garlic powder", 2],
+            ["tapatio", 3]
+        ]
+    },
+    "spaghetti":{ 
+        "ingredients":[
+            ["spaghetti noodles", 0.5],
+            ["spaghetti sauce", 1],
+            ["ground sausage", 0.5],
+            ["mozzarella", 0.25],
+            ["garlic bread", 2]
         ]
     }
 }
