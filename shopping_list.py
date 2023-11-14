@@ -43,8 +43,10 @@ class Shopping_list(object):
         # print("Final List by department", self.items_by_department)
     
     def list_the_list(self):
+        print("I love you Cuppy Cup!")
         for dep in store_department_list:
             if self.items_by_department[dep]:
+                print(" ")
                 print(dep.upper())
             for entry in self.items_by_department[dep]:
                 #print(entry)

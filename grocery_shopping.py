@@ -48,7 +48,7 @@ while not finished_adding_recipes:
     else:
         weekly_recipes.append(recipes[selected])
         last_selected = selected
-print(weekly_recipes)
+# print(weekly_recipes)
 
 
 # After we have picked our recipes for the week, we compile the shopping list for those items.

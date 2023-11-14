@@ -4,6 +4,7 @@ Departments and items they contain
 "seafood"
 "bakery"
 "meat"
+"refrigeration": cheese, bacon, sausage
 "aisle 1": wine
 "aisle 2": beer and mixers
 "aisle 3": specialty vitamins, specialty drinks, energy bars, energy drinks, bulk foods
@@ -17,7 +18,7 @@ Departments and items they contain
 "aisle 11": candy & gum, latino candy, coconut water, juice, juice boxes, soy/rice/almond milk
 "aisle 12": energy drinks, sparkling water, sports drinks, powdered drinks, ready to drink coffee/tea, tea
 "aisle 13": soda, ice coolers, water, bottled water, jug water
-"refrigeration"
+"dairy": eggs, milk, yakult
 "frozen"
 "household"
 "personal hygiene"

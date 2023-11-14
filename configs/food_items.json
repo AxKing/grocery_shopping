@@ -1,75 +1,7 @@
 {
-    "fish filet": {
-        "department": "meat",
-        "unit": "lb"
-    },
-    "butter": {
-        "department": "refrigeration",
-        "unit": "tbsp"
-    },
-    "kosher salt": {
-        "department": "aisle 7",
-        "unit": "tsp"
-    },
-    "paprika": {
-        "department": "aisle 7",
-        "unit": "tsp"
-    },
     "lemon":{
         "department": "produce",
         "unit": "each"
-    },
-    "garlic powder": {
-        "department": "aisle 7",
-        "unit": "tsp"
-    },
-    "onion powder":{
-        "department" : "aisle 7",
-        "unit": "tsp"
-    },
-    "olive oil": {
-        "department": "aisle 7",
-        "unit": "tbsp"
-    },
-    "ground turkey": {
-        "department": "meat",
-        "unit": "lb"
-    },
-    "pinto beans":{
-        "department": "aisle 6",
-        "unit": "can"
-    },
-    "black beans":{
-        "department":"aisle 6",
-        "unit": "can"
-    },
-    "kidney beans":{
-        "department":"aisle 6",
-        "unit": "can"
-    },
-    "navy beans":{
-        "department": "aisle 6",
-        "unit": "can"
-    },
-    "chili packet":{
-        "department": "frozen",
-        "unit": "each"
-    },
-    "tapatio": {
-        "department": "aisle 4",
-        "unit": "tbsp"
-    },
-    "dash":{
-        "department": "aisle 7",
-        "unit": "tbsp"
-    },
-    "monster":{
-        "department": "aisle 12",
-        "unit": "can"
-    },
-    "yakult":{
-        "department": "refrigeration",
-        "unit": "pack"
     },
     "bananas":{
         "department": "produce",
@@ -83,6 +15,118 @@
         "department": "produce",
         "unit": "basket"
     },
+    "yellow bell pepper":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "red bell pepper":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "orange bell pepper":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "salsa":{
+        "department": "produce",
+        "unit": "tub"
+    },
+    "lime":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "avocado":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "cilantro":{
+        "department": "produce",
+        "unit": "bunch"
+    },
+    "broccoli":{
+        "department": "produce",
+        "unit": "head"
+    },
+    "cauliflower":{
+        "department": "produce",
+        "unit": "head"
+    },
+    "baby carrots":{
+        "department": "produce",
+        "unit": "bag"
+    },
+    "mushroom":{
+        "department": "produce",
+        "unit": "box"
+    },
+    "snow peas":{
+        "department": "produce",
+        "unit": "bag"
+    },
+    "ginger":{
+        "department": "produce",
+        "unit": "piece"
+    },
+    "garlic":{
+        "department": "produce",
+        "unit": "clove"
+    },
+    "baby potato":{
+        "department": "produce",
+        "unit": "bag"
+    },
+    "large potato":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "jarlic":{
+        "department": "produce",
+        "unit": "tsp"
+    },
+    "bottle ginger":{
+        "department": "produe",
+        "unit": "tsp"
+    },
+    "fish filet": {
+        "department": "seafood",
+        "unit": "lb"
+    },
+    "beef steak":{
+        "department": "meat",
+        "unit": "each"
+    },
+    "ground turkey": {
+        "department": "meat",
+        "unit": "lb"
+    },
+    "ground sausage":{
+        "department": "meat",
+        "unit": "lb"
+    },
+    "chicken breast":{
+        "department": "meat",
+        "unit": "package"
+    },
+    "stir fry steak":{
+        "department": "meat",
+        "unit": "lb"
+    },
+    "mozzarella":{
+        "department": "refrigeration",
+        "unit": "block"
+    },
+    "white cheddar":{
+        "department": "refrigeration",
+        "unit": "block"
+    },
+    "beer":{
+        "department": "aisle 2",
+        "unit": "6er"
+    },
+    "tapatio": {
+        "department": "aisle 4",
+        "unit": "tbsp"
+    },
     "spaghetti noodles":{
         "department": "aisle 5",
         "unit": "package"
@@ -91,16 +135,109 @@
         "department": "aisle 5",
         "unit": "jar"
     },
-    "ground sausage":{
-        "department": "meat",
-        "unit": "lb"
+    "white rice":{
+        "department": "aisle 5",
+        "unit": "cup"
     },
-    "mozzarella":{
-        "department": "refrigeration",
-        "unit": "block"
+    "low sodium soy sauce":{
+        "department": "aisle 5",
+        "unit": "bottle"
+    },
+    "sesame oil":{
+        "department": "aisle 5",
+        "unit": "bottle"
+    },
+    "baby corn":{
+        "department": "aisle 5",
+        "unit": "can"
+    },
+    "honey":{
+        "department": "aisle 5",
+        "unit": "bottle"
+    },
+    "low sodium chicken broth":{
+        "department": "aisle 6",
+        "unit": "box"
+    },
+    "pinto beans":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
+    "black beans":{
+        "department":"aisle 6",
+        "unit": "can"
+    },
+    "black or pinto beans":{
+        "department":"aisle 6",
+        "unit": "can"
+    },
+    "kidney beans":{
+        "department":"aisle 6",
+        "unit": "can"
+    },
+    "navy beans":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
+    "kosher salt": {
+        "department": "aisle 7",
+        "unit": "tsp"
+    },
+    "paprika": {
+        "department": "aisle 7",
+        "unit": "tsp"
+    },
+
+    "garlic powder": {
+        "department": "aisle 7",
+        "unit": "tsp"
+    },
+    "onion powder":{
+        "department" : "aisle 7",
+        "unit": "tsp"
+    },
+    "olive oil": {
+        "department": "aisle 7",
+        "unit": "tbsp"
+    },
+    "dash":{
+        "department": "aisle 7",
+        "unit": "tbsp"
+    },
+    "light brown sugar":{
+        "department": "aisle 7",
+        "unit": "bag"
+    },
+    "corn starch":{
+        "department": "aisle 7",
+        "unit": "container"
+    },
+    "red pepper flakes":{
+        "department": "aisle 7",
+        "unit": "bottle"
+    },
+    "monster":{
+        "department": "aisle 12",
+        "unit": "can"
+    },
+    "sour cream":{
+        "department": "dairy",
+        "unit": "small tub"
+    },
+    "yakult":{
+        "department": "dairy",
+        "unit": "pack"
+    },
+    "butter": {
+        "department": "dairy",
+        "unit": "tbsp"
+    },
+    "chili packet":{
+        "department": "frozen",
+        "unit": "each"
     },
     "garlic bread":{
         "department": "frozen",
-        "unit": "box"
+        "unit": "piece"
     }
 }
