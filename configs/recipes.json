@@ -1,52 +1,4 @@
 {
-    "lemon butter fish": {
-        "ingredients": [
-            ["fish filet",2],
-            ["butter",3],
-            ["kosher salt",0.5],
-            ["paprika",1],
-            ["lemon",3],
-            ["garlic powder",1],
-            ["onion powder",1],
-            ["olive oil",3]
-        ]
-    },
-    "turkey chili": {
-        "ingredients" : [
-            ["ground turkey", 1],
-            ["pinto beans", 2],
-            ["black beans", 1],
-            ["kidney beans", 1],
-            ["navy beans", 1],
-            ["chili packet", 1],
-            ["dash", 3],
-            ["onion powder", 2],
-            ["garlic powder", 2],
-            ["tapatio", 3]
-        ]
-    },
-    "spaghetti":{ 
-        "ingredients":[
-            ["spaghetti noodles", 0.5],
-            ["spaghetti sauce", 1],
-            ["ground sausage", 0.5],
-            ["mozzarella", 0.25],
-            ["garlic bread", 2]
-        ]
-    },
-    "chipotle bowls":{ 
-        "ingredients":[
-            ["chicken breast", 0.5],
-            ["white rice", 2],
-            ["cilantro",0.5],
-            ["lime", 2],
-            ["salsa", 1],
-            ["black or pinto beans", 1],
-            ["avocado", 2],
-            ["white cheddar", 0.25],
-            ["sour cream", 0.25]
-        ]
-    },
     "anthony chicken stir fry":{
         "ingredients":[
             ["chicken breast", 0.5],
@@ -58,11 +10,39 @@
             ["snow peas", 0.5],
             ["ginger", 1],
             ["garlic",3],
-            ["low sodium soy sauce", 0.1],
+            ["low sodium soy sauce", 6],
             ["light brown sugar", 0.1],
-            ["corn starch",0.1],
-            ["sesame oil", 0.1]
-    ]},
+            ["corn starch",1.5],
+            ["sesame oil", 3]
+        ]},
+    "beef stir fry":{
+        "ingredients":[
+            ["stir fry steak", 1],
+            ["olive oil", 2],
+            ["broccoli", 0.5],
+            ["cauliflower", 0.5],
+            ["baby carrots", 0.5],
+            ["mushroom",0.5],
+            ["snow peas", 0.5],
+            ["ginger", 1],
+            ["garlic",0.2],
+            ["low sodium soy sauce", 3],
+            ["light brown sugar", 0.1],
+            ["corn starch",1.5],
+            ["sesame oil", 3]
+        ]},
+    "chipotle bowls":{ 
+        "ingredients":[
+            ["chicken breast", 0.5],
+            ["white rice", 2],
+            ["cilantro",0.5],
+            ["lime", 2],
+            ["salsa", 1],
+            ["black or pinto beans", 1],
+            ["avocado", 2],
+            ["white cheddar", 0.25],
+            ["sour cream", 0.25]
+        ]},
     "kaylee chicken stir fry":{
         "ingredients":[
             ["chicken breast", 0.5],
@@ -75,39 +55,69 @@
             ["baby corn",1], 
             ["jarlic",2], 
             ["bottle ginger",2], 
-            ["corn starch",0.3],
+            ["corn starch",1],
             ["low sodium chicken broth",0.25],
-            ["low sodium soy sauce",0.3],
+            ["low sodium soy sauce",3],
             ["honey",0.25],
-            ["sesame oil",0.1],
+            ["sesame oil",1],
             ["red pepper flakes",0.1]
-    ]},
-    "beef stir fry":{
+        ]},    
+    "lemon butter fish": {
+        "ingredients": [
+            ["fish filet",2],
+            ["butter",3],
+            ["kosher salt",0.5],
+            ["paprika",1],
+            ["lemon",3],
+            ["garlic powder",1],
+            ["onion powder",1],
+            ["olive oil",3]
+        ]},
+    "pot roast":{
         "ingredients":[
-            ["stir fry steak", 1],
-            ["olive oil", 2],
-            ["broccoli", 0.5],
-            ["cauliflower", 0.5],
-            ["baby carrots", 0.5],
-            ["mushroom",0.5],
-            ["snow peas", 0.5],
-            ["ginger", 1],
-            ["garlic",0.2],
-            ["low sodium soy sauce", 0.1],
-            ["light brown sugar", 0.1],
-            ["corn starch",0.1],
-            ["sesame oil", 0.1]
-    ]},
+            ["olive oil",1.5],
+            ["chuck roast",3],
+            ["yellow onion",1],
+            ["garlic",5],
+            ["beef broth",1.25],
+            ["worcestershire sauce",2],
+            ["thyme",1],
+            ["rosemary",1],
+            ["baby potato",2.5],
+            ["carrot",5],
+            ["corn starch",2.5]
+        ]},
+    "spaghetti":{ 
+        "ingredients":[
+            ["spaghetti noodles", 0.5],
+            ["spaghetti sauce", 1],
+            ["ground sausage", 0.5],
+            ["mozzarella", 0.25],
+            ["garlic bread", 2]
+        ]},
     "steak & baked potatoes": {
         "ingredients":[
             ["beef steak",2],
             ["large potato",2]
-            ]},
+        ]},
     "steak & vegetables": {
         "ingredients":[
             ["beef steak",2],
             ["baby potato",0.5],
             ["broccoli",0.5],
             ["baby carrots",0.5]
-    ]}
+        ]},
+    "turkey chili": {
+        "ingredients" : [
+            ["ground turkey", 1],
+            ["pinto beans", 2],
+            ["black beans", 1],
+            ["kidney beans", 1],
+            ["navy beans", 1],
+            ["chili packet", 1],
+            ["dash", 3],
+            ["onion powder", 2],
+            ["garlic powder", 2],
+            ["tapatio", 3]
+        ]}
 }

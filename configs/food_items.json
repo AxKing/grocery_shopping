@@ -73,9 +73,21 @@
     },
     "baby potato":{
         "department": "produce",
-        "unit": "bag"
+        "unit": "lb"
     },
     "large potato":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "thyme":{
+        "department": "produce",
+        "unit": "tbsp"
+    },
+    "rosemary":{
+        "department": "produce",
+        "unit": "tbsp"
+    },
+    "carrot":{
         "department": "produce",
         "unit": "each"
     },
@@ -84,8 +96,12 @@
         "unit": "tsp"
     },
     "bottle ginger":{
-        "department": "produe",
+        "department": "produce",
         "unit": "tsp"
+    },
+    "yellow onion":{
+        "department": "produce",
+        "unit": "each"
     },
     "fish filet": {
         "department": "seafood",
@@ -108,6 +124,10 @@
         "unit": "package"
     },
     "stir fry steak":{
+        "department": "meat",
+        "unit": "lb"
+    },
+    "chuck roast":{
         "department": "meat",
         "unit": "lb"
     },
@@ -141,19 +161,23 @@
     },
     "low sodium soy sauce":{
         "department": "aisle 5",
-        "unit": "bottle"
+        "unit": "tbsp"
     },
     "sesame oil":{
         "department": "aisle 5",
-        "unit": "bottle"
+        "unit": "tbsp"
     },
     "baby corn":{
         "department": "aisle 5",
         "unit": "can"
     },
+    "worcestershire sauce":{
+        "department": "aisle 5",
+        "unit": "tbsp"
+    },
     "honey":{
         "department": "aisle 5",
-        "unit": "bottle"
+        "unit": "cup"
     },
     "low sodium chicken broth":{
         "department": "aisle 6",
@@ -183,6 +207,10 @@
         "department": "aisle 7",
         "unit": "tsp"
     },
+    "beef broth":{
+        "department": "aisle 6",
+        "unit": "cup"
+    },
     "paprika": {
         "department": "aisle 7",
         "unit": "tsp"
@@ -210,7 +238,7 @@
     },
     "corn starch":{
         "department": "aisle 7",
-        "unit": "container"
+        "unit": "tbsp"
     },
     "red pepper flakes":{
         "department": "aisle 7",
