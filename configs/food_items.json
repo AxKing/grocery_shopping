@@ -31,6 +31,18 @@
         "department": "produce",
         "unit": "tub"
     },
+    "pico de galo":{
+        "department": "produce",
+        "unit": "tub"
+    },
+    "cucumber":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "shredded carrots":{
+        "department": "produce",
+        "unit": "bag"
+    },
     "lime":{
         "department": "produce",
         "unit": "each"
@@ -115,6 +127,10 @@
         "department": "seafood",
         "unit": "lb"
     },
+    "shrimp":{
+        "department": "seafood",
+        "unit": "bag"
+    },
     "beef steak":{
         "department": "meat",
         "unit": "each"
@@ -155,6 +171,14 @@
         "department": "refrigeration",
         "unit": "block"
     },
+    "hot dogs":{
+        "department": "refrigeration",
+        "unit": "pack"
+    },
+    "american sliced cheese":{
+        "department": "refrigeration",
+        "unit": "pack"
+    },
     "beer":{
         "department": "aisle 2",
         "unit": "6er"
@@ -167,6 +191,10 @@
         "department": "asile 4",
         "unit": "package"
     },
+    "hot dog buns":{
+        "department": "asile 4",
+        "unit": "pack"
+    },
     "spaghetti noodles":{
         "department": "aisle 5",
         "unit": "package"
@@ -178,6 +206,18 @@
     "white rice":{
         "department": "aisle 5",
         "unit": "cup"
+    },
+    "furikake":{
+        "department": "aisle 5",
+        "unit": "tbsp"
+    },
+    "rice wine":{
+        "department": "aisle 5",
+        "unit": "tbsp"
+    },
+    "soy sauce":{
+        "department": "aisle 5",
+        "unit": "tbsp"
     },
     "low sodium soy sauce":{
         "department": "aisle 5",
@@ -223,19 +263,34 @@
         "department": "aisle 6",
         "unit": "can"
     },
+    "beef broth":{
+        "department": "aisle 6",
+        "unit": "cup"
+    },
+    "enchilada/tortilla soup":{
+        "department": "aisle 6",
+        "unit": "jar"
+    },
+    "hormel chili":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
     "kosher salt": {
         "department": "aisle 7",
         "unit": "tsp"
     },
-    "beef broth":{
-        "department": "aisle 6",
+    "sesame seeds":{
+        "department": "aisle 7",
+        "unit": "tbsp"
+    },
+    "sugar":{
+        "department": "aisle 7",
         "unit": "cup"
     },
     "paprika": {
         "department": "aisle 7",
         "unit": "tsp"
     },
-
     "garlic powder": {
         "department": "aisle 7",
         "unit": "tsp"
@@ -264,6 +319,10 @@
         "department": "aisle 7",
         "unit": "bottle"
     },
+    "tortilla chips":{
+        "department": "aisle 10",
+        "unit": "bag"
+    },
     "monster":{
         "department": "aisle 12",
         "unit": "can"
@@ -291,5 +350,9 @@
     "taco seasoning packet":{
         "department": "frozen",
         "unit": "each"
+    },
+    "curly fries":{
+        "department": "frozen",
+        "unit": "bag"
     }
 }

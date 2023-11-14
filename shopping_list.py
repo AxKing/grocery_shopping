@@ -43,6 +43,8 @@ class Shopping_list(object):
         # print("Final List by department", self.items_by_department)
     
     def list_the_list(self):
+        for i in range(2):
+            print("")
         print("I love you Cuppy Cup!")
         for dep in store_department_list:
             if self.items_by_department[dep]:

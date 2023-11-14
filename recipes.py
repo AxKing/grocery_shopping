@@ -5,13 +5,6 @@ class Recipe(object):
 
 """
 "name":{[["ingredient", "quantity"],[]]}
-    "shimp bowls": {},
-    "kaylee stir fry": {},
-    "roast": {},
-    "chicken noodle soup": {},
-    "steak and vegetables": {},
-    "chicken tacos": {},
-    "ground beef tacos": {},
-    "tortilla soup": {}
+    "chicken noodle soup": {}
     
 """

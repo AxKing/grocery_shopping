@@ -39,6 +39,14 @@
             ["cilantro", 0.5],
             ["lime", 1]
         ]},
+    "chili cheese dogs":{
+        "ingredients":[
+            ["hot dog buns",1], 
+            ["hot dogs", 1],
+            ["hormel chili", 1],
+            ["american sliced cheese", 1],
+            ["curly fries", 0.5]
+        ]},
     "chipotle bowls":{ 
         "ingredients":[
             ["chicken breast", 0.5],
@@ -50,6 +58,18 @@
             ["avocado", 2],
             ["white cheddar", 0.25],
             ["sour cream", 0.25]
+        ]},
+    "enchilada/tortilla soup": {
+        "ingredients":[
+            ["enchilada/tortilla soup", 1],
+            ["chicken breast", 0.5],
+            ["tortilla chips", 1],
+            ["avocado", 1],
+            ["sour cream", 0.5],
+            ["mixed cheese", 0.25],
+            ["white onion", 0.5],
+            ["cilantro", 0.5],
+            ["pico de galo", 0.5]
         ]},
     "ground beef tacos":{
         "ingredients":[
@@ -105,6 +125,19 @@
             ["baby potato",2.5],
             ["carrot",5],
             ["corn starch",2.5]
+        ]},
+    "shrimp bowls":{
+        "ingredients":[
+            ["white rice", 2],
+            ["shrimp", 0.5],
+            ["cucumber", 0.5],
+            ["shredded carrots", 0.5],
+            ["avocado", 2],
+            ["sesame seeds", 2],
+            ["furikake", 2],
+            ["sugar", 0.25],
+            ["rice wine", 0.25],
+            ["soy sauce", 0.25]
         ]},
     "spaghetti":{ 
         "ingredients":[
