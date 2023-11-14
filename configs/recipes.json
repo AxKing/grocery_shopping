@@ -31,6 +31,14 @@
             ["corn starch",1.5],
             ["sesame oil", 3]
         ]},
+    "chicken tacos":{
+        "ingredients":[
+            ["chicken breast", 0.5],
+            ["tortillas", 0.5],
+            ["white onion", 0.5],
+            ["cilantro", 0.5],
+            ["lime", 1]
+        ]},
     "chipotle bowls":{ 
         "ingredients":[
             ["chicken breast", 0.5],
@@ -42,6 +50,17 @@
             ["avocado", 2],
             ["white cheddar", 0.25],
             ["sour cream", 0.25]
+        ]},
+    "ground beef tacos":{
+        "ingredients":[
+            ["ground beef", 1],
+            ["tortillas", 0.5],
+            ["white onion", 0.5],
+            ["cilantro", 0.5],
+            ["sour cream", 0.1],
+            ["mixed cheese", 0.25],
+            ["taco seasoning packet",1],
+            ["shredded lettuce", 1]
         ]},
     "kaylee chicken stir fry":{
         "ingredients":[

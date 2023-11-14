@@ -59,6 +59,10 @@
         "department": "produce",
         "unit": "box"
     },
+    "shredded lettuce":{
+        "department": "produce",
+        "unit": "bag"
+    },
     "snow peas":{
         "department": "produce",
         "unit": "bag"
@@ -103,6 +107,10 @@
         "department": "produce",
         "unit": "each"
     },
+    "white onion":{
+        "department": "produce",
+        "unit": "each"
+    },
     "fish filet": {
         "department": "seafood",
         "unit": "lb"
@@ -110,6 +118,10 @@
     "beef steak":{
         "department": "meat",
         "unit": "each"
+    },
+    "ground beef":{
+        "department": "meat",
+        "unit": "lb"
     },
     "ground turkey": {
         "department": "meat",
@@ -139,6 +151,10 @@
         "department": "refrigeration",
         "unit": "block"
     },
+    "mixed cheese":{
+        "department": "refrigeration",
+        "unit": "block"
+    },
     "beer":{
         "department": "aisle 2",
         "unit": "6er"
@@ -146,6 +162,10 @@
     "tapatio": {
         "department": "aisle 4",
         "unit": "tbsp"
+    },
+    "tortillas":{
+        "department": "asile 4",
+        "unit": "package"
     },
     "spaghetti noodles":{
         "department": "aisle 5",
@@ -267,5 +287,9 @@
     "garlic bread":{
         "department": "frozen",
         "unit": "piece"
+    },
+    "taco seasoning packet":{
+        "department": "frozen",
+        "unit": "each"
     }
 }
