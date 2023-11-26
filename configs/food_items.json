@@ -281,6 +281,10 @@
         "department": "aisle 6",
         "unit": "box"
     },
+    "mac & cheese":{
+        "department": "aisle 6",
+        "unit": "box"
+    },
     "navy beans":{
         "department": "aisle 6",
         "unit": "can"
@@ -389,6 +393,14 @@
         "department": "household",
         "unit": "package"
     },
+    "kitchen trash bags":{
+        "department": "household",
+        "unit": "box"
+    },
+    "laundry detergent":{
+        "department": "household",
+        "unit": "jug"
+    },
     "toilet paper":{
         "department": "household",
         "unit": "package"
@@ -402,5 +414,10 @@
     "kaylee deodorant":{
         "department": "personal hygiene",
         "unit": "stick"
+    },
+    "toothpaste":{
+        "department": "personal hygiene",
+        "unit": "tube"
     }
+    
 }
