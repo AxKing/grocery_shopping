@@ -1,5 +1,5 @@
 {
-    "lemon":{
+    "avocado":{
         "department": "produce",
         "unit": "each"
     },
@@ -7,69 +7,93 @@
         "department": "produce",
         "unit": "each"
     },
-    "strawberries":{
+    "baby carrots":{
         "department": "produce",
-        "unit": "basket"
+        "unit": "bag"
+    },
+    "baby potato":{
+        "department": "produce",
+        "unit": "lb"
     },
     "blueberries":{
         "department": "produce",
         "unit": "basket"
     },
-    "yellow bell pepper":{
+    "bottle ginger":{
         "department": "produce",
-        "unit": "each"
-    },
-    "red bell pepper":{
-        "department": "produce",
-        "unit": "each"
-    },
-    "orange bell pepper":{
-        "department": "produce",
-        "unit": "each"
-    },
-    "salsa":{
-        "department": "produce",
-        "unit": "tub"
-    },
-    "pico de galo":{
-        "department": "produce",
-        "unit": "tub"
-    },
-    "cucumber":{
-        "department": "produce",
-        "unit": "each"
-    },
-    "shredded carrots":{
-        "department": "produce",
-        "unit": "bag"
-    },
-    "lime":{
-        "department": "produce",
-        "unit": "each"
-    },
-    "avocado":{
-        "department": "produce",
-        "unit": "each"
-    },
-    "cilantro":{
-        "department": "produce",
-        "unit": "bunch"
+        "unit": "tsp"
     },
     "broccoli":{
         "department": "produce",
         "unit": "head"
     },
+    "carrot":{
+        "department": "produce",
+        "unit": "each"
+    },
     "cauliflower":{
         "department": "produce",
         "unit": "head"
     },
-    "baby carrots":{
+    "cilantro":{
         "department": "produce",
-        "unit": "bag"
+        "unit": "bunch"
+    },
+    "cucumber":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "garlic":{
+        "department": "produce",
+        "unit": "clove"
+    },
+    "ginger":{
+        "department": "produce",
+        "unit": "piece"
+    },
+    "jarlic":{
+        "department": "produce",
+        "unit": "tsp"
+    },
+    "large potato":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "lemon":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "lime":{
+        "department": "produce",
+        "unit": "each"
     },
     "mushroom":{
         "department": "produce",
         "unit": "box"
+    },
+    "orange bell pepper":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "pico de galo":{
+        "department": "produce",
+        "unit": "tub"
+    },
+    "red bell pepper":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "rosemary":{
+        "department": "produce",
+        "unit": "tbsp"
+    },
+    "salsa":{
+        "department": "produce",
+        "unit": "tub"
+    },
+    "shredded carrots":{
+        "department": "produce",
+        "unit": "bag"
     },
     "shredded lettuce":{
         "department": "produce",
@@ -79,50 +103,28 @@
         "department": "produce",
         "unit": "bag"
     },
-    "ginger":{
+    "strawberries":{
         "department": "produce",
-        "unit": "piece"
-    },
-    "garlic":{
-        "department": "produce",
-        "unit": "clove"
-    },
-    "baby potato":{
-        "department": "produce",
-        "unit": "lb"
-    },
-    "large potato":{
-        "department": "produce",
-        "unit": "each"
+        "unit": "basket"
     },
     "thyme":{
         "department": "produce",
         "unit": "tbsp"
     },
-    "rosemary":{
-        "department": "produce",
-        "unit": "tbsp"
-    },
-    "carrot":{
+    "white onion":{
         "department": "produce",
         "unit": "each"
     },
-    "jarlic":{
+    "yellow bell pepper":{
         "department": "produce",
-        "unit": "tsp"
-    },
-    "bottle ginger":{
-        "department": "produce",
-        "unit": "tsp"
+        "unit": "each"
     },
     "yellow onion":{
         "department": "produce",
         "unit": "each"
     },
-    "white onion":{
-        "department": "produce",
-        "unit": "each"
-    },
+
+
     "fish filet": {
         "department": "seafood",
         "unit": "lb"
@@ -131,15 +133,21 @@
         "department": "seafood",
         "unit": "bag"
     },
+
+
     "beef steak":{
         "department": "meat",
         "unit": "each"
     },
-    "ground beef":{
+    "chicken breast":{
+        "department": "meat",
+        "unit": "package"
+    },
+    "chuck roast":{
         "department": "meat",
         "unit": "lb"
     },
-    "ground turkey": {
+    "ground beef":{
         "department": "meat",
         "unit": "lb"
     },
@@ -147,17 +155,27 @@
         "department": "meat",
         "unit": "lb"
     },
-    "chicken breast":{
+    "ground turkey": {
         "department": "meat",
-        "unit": "package"
+        "unit": "lb"
     },
     "stir fry steak":{
         "department": "meat",
         "unit": "lb"
     },
-    "chuck roast":{
-        "department": "meat",
-        "unit": "lb"
+
+
+    "american sliced cheese":{
+        "department": "refrigeration",
+        "unit": "pack"
+    },
+    "hot dogs":{
+        "department": "refrigeration",
+        "unit": "pack"
+    },
+    "mixed cheese":{
+        "department": "refrigeration",
+        "unit": "block"
     },
     "mozzarella":{
         "department": "refrigeration",
@@ -167,21 +185,17 @@
         "department": "refrigeration",
         "unit": "block"
     },
-    "mixed cheese":{
-        "department": "refrigeration",
-        "unit": "block"
-    },
-    "hot dogs":{
-        "department": "refrigeration",
-        "unit": "pack"
-    },
-    "american sliced cheese":{
-        "department": "refrigeration",
-        "unit": "pack"
-    },
+
+
     "beer":{
         "department": "aisle 2",
         "unit": "6er"
+    },
+
+
+    "hot dog buns":{
+        "department": "asile 4",
+        "unit": "pack"
     },
     "tapatio": {
         "department": "aisle 4",
@@ -191,9 +205,35 @@
         "department": "asile 4",
         "unit": "package"
     },
-    "hot dog buns":{
-        "department": "asile 4",
-        "unit": "pack"
+
+
+    "baby corn":{
+        "department": "aisle 5",
+        "unit": "can"
+    },
+    "furikake":{
+        "department": "aisle 5",
+        "unit": "tbsp"
+    },
+    "honey":{
+        "department": "aisle 5",
+        "unit": "cup"
+    },
+    "low sodium soy sauce":{
+        "department": "aisle 5",
+        "unit": "tbsp"
+    },
+    "rice wine":{
+        "department": "aisle 5",
+        "unit": "tbsp"
+    },
+    "soy sauce":{
+        "department": "aisle 5",
+        "unit": "tbsp"
+    },
+    "sesame oil":{
+        "department": "aisle 5",
+        "unit": "tbsp"
     },
     "spaghetti noodles":{
         "department": "aisle 5",
@@ -207,45 +247,15 @@
         "department": "aisle 5",
         "unit": "cup"
     },
-    "furikake":{
-        "department": "aisle 5",
-        "unit": "tbsp"
-    },
-    "rice wine":{
-        "department": "aisle 5",
-        "unit": "tbsp"
-    },
-    "soy sauce":{
-        "department": "aisle 5",
-        "unit": "tbsp"
-    },
-    "low sodium soy sauce":{
-        "department": "aisle 5",
-        "unit": "tbsp"
-    },
-    "sesame oil":{
-        "department": "aisle 5",
-        "unit": "tbsp"
-    },
-    "baby corn":{
-        "department": "aisle 5",
-        "unit": "can"
-    },
     "worcestershire sauce":{
         "department": "aisle 5",
         "unit": "tbsp"
     },
-    "honey":{
-        "department": "aisle 5",
+
+
+    "beef broth":{
+        "department": "aisle 6",
         "unit": "cup"
-    },
-    "low sodium chicken broth":{
-        "department": "aisle 6",
-        "unit": "box"
-    },
-    "pinto beans":{
-        "department": "aisle 6",
-        "unit": "can"
     },
     "black beans":{
         "department":"aisle 6",
@@ -255,18 +265,6 @@
         "department":"aisle 6",
         "unit": "can"
     },
-    "kidney beans":{
-        "department":"aisle 6",
-        "unit": "can"
-    },
-    "navy beans":{
-        "department": "aisle 6",
-        "unit": "can"
-    },
-    "beef broth":{
-        "department": "aisle 6",
-        "unit": "cup"
-    },
     "enchilada/tortilla soup":{
         "department": "aisle 6",
         "unit": "jar"
@@ -275,9 +273,59 @@
         "department": "aisle 6",
         "unit": "can"
     },
+    "kidney beans":{
+        "department":"aisle 6",
+        "unit": "can"
+    },
+    "low sodium chicken broth":{
+        "department": "aisle 6",
+        "unit": "box"
+    },
+    "navy beans":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
+    "pinto beans":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
+
+    
+    "corn starch":{
+        "department": "aisle 7",
+        "unit": "tbsp"
+    },
+    "dash":{
+        "department": "aisle 7",
+        "unit": "tbsp"
+    },
+    "garlic powder": {
+        "department": "aisle 7",
+        "unit": "tsp"
+    },
     "kosher salt": {
         "department": "aisle 7",
         "unit": "tsp"
+    },
+    "light brown sugar":{
+        "department": "aisle 7",
+        "unit": "bag"
+    }, 
+    "olive oil": {
+        "department": "aisle 7",
+        "unit": "tbsp"
+    },
+    "onion powder":{
+        "department" : "aisle 7",
+        "unit": "tsp"
+    },
+    "paprika": {
+        "department": "aisle 7",
+        "unit": "tsp"
+    },
+    "red pepper flakes":{
+        "department": "aisle 7",
+        "unit": "bottle"
     },
     "sesame seeds":{
         "department": "aisle 7",
@@ -287,45 +335,27 @@
         "department": "aisle 7",
         "unit": "cup"
     },
-    "paprika": {
-        "department": "aisle 7",
-        "unit": "tsp"
-    },
-    "garlic powder": {
-        "department": "aisle 7",
-        "unit": "tsp"
-    },
-    "onion powder":{
-        "department" : "aisle 7",
-        "unit": "tsp"
-    },
-    "olive oil": {
-        "department": "aisle 7",
-        "unit": "tbsp"
-    },
-    "dash":{
-        "department": "aisle 7",
-        "unit": "tbsp"
-    },
-    "light brown sugar":{
-        "department": "aisle 7",
-        "unit": "bag"
-    },
-    "corn starch":{
-        "department": "aisle 7",
-        "unit": "tbsp"
-    },
-    "red pepper flakes":{
-        "department": "aisle 7",
-        "unit": "bottle"
-    },
+
+
     "tortilla chips":{
         "department": "aisle 10",
         "unit": "bag"
     },
+
+
     "monster":{
         "department": "aisle 12",
         "unit": "can"
+    },
+
+
+    "butter": {
+        "department": "dairy",
+        "unit": "tbsp"
+    },
+    "milk":{
+        "department": "dairy",
+        "unit": "half gallon"
     },
     "sour cream":{
         "department": "dairy",
@@ -335,17 +365,15 @@
         "department": "dairy",
         "unit": "pack"
     },
-    "butter": {
-        "department": "dairy",
-        "unit": "tbsp"
-    },
-    "milk":{
-        "department": "dairy",
-        "unit": "half gallon"
-    },
+
+
     "chili packet":{
         "department": "frozen",
         "unit": "each"
+    },
+    "curly fries":{
+        "department": "frozen",
+        "unit": "bag"
     },
     "garlic bread":{
         "department": "frozen",
@@ -355,14 +383,18 @@
         "department": "frozen",
         "unit": "each"
     },
-    "curly fries":{
-        "department": "frozen",
-        "unit": "bag"
+
+
+    "dishwasher pods":{
+        "department": "household",
+        "unit": "package"
     },
     "toilet paper":{
         "department": "household",
         "unit": "package"
     },
+
+
     "anthony deodorant":{
         "department": "personal hygiene",
         "unit": "stick"
