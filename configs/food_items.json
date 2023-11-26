@@ -339,6 +339,10 @@
         "department": "dairy",
         "unit": "tbsp"
     },
+    "milk":{
+        "department": "dairy",
+        "unit": "half gallon"
+    },
     "chili packet":{
         "department": "frozen",
         "unit": "each"
@@ -354,5 +358,17 @@
     "curly fries":{
         "department": "frozen",
         "unit": "bag"
+    },
+    "toilet paper":{
+        "department": "household",
+        "unit": "package"
+    },
+    "anthony deodorant":{
+        "department": "personal hygiene",
+        "unit": "stick"
+    },
+    "kaylee deodorant":{
+        "department": "personal hygiene",
+        "unit": "stick"
     }
 }
