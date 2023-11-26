@@ -401,6 +401,10 @@
         "department": "household",
         "unit": "jug"
     },
+    "paper towels":{
+        "department": "household",
+        "unit": "package"
+    },
     "toilet paper":{
         "department": "household",
         "unit": "package"
