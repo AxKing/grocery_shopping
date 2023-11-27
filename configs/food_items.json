@@ -3,6 +3,10 @@
         "department": "produce",
         "unit": "each"
     },
+    "anthony salad":{
+        "department": "produce",
+        "unit": "each"
+    },
     "bananas":{
         "department": "produce",
         "unit": "each"
@@ -54,6 +58,10 @@
     "jarlic":{
         "department": "produce",
         "unit": "tsp"
+    },
+    "kaylee salad":{
+        "department": "produce",
+        "unit": "each"
     },
     "large potato":{
         "department": "produce",
@@ -341,6 +349,12 @@
     },
 
 
+    "coffee": {
+        "department":"aisle 9",
+        "unit": "can"
+    },
+
+
     "tortilla chips":{
         "department": "aisle 10",
         "unit": "bag"
@@ -356,6 +370,14 @@
     "butter": {
         "department": "dairy",
         "unit": "tbsp"
+    },
+    "coffee creamer":{
+        "department": "dairy",
+        "unit": "jug"
+    },
+    "eggs":{
+        "department": "dairy",
+        "unit": "18 pack"
     },
     "milk":{
         "department": "dairy",

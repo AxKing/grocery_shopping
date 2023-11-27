@@ -49,7 +49,7 @@ while not finished_adding_recipes:
     if last_selected == None:
         title = 'Please choose this weeks recipes (ENTER to select): '
     else:
-        title = 'I have added ' + last_selected + ' to the cart.'
+        title = 'I have added ' + last_selected + ' to the cart. \n So far I have: ' + str([x.name for x in weekly_recipes])
     selected, index = pick(options, title, multiselect=False)
     if selected == "--Exit":
         finished_adding_recipes = True
@@ -90,6 +90,10 @@ grocery_list.add_weekly_items(weekly_items)
 
 
 # This is where I will call Adding the non-weekly items to the list
+print("This weeks dinners: ")
+for x in weekly_recipes:
+    print(x.name)
+
 
 grocery_list.list_foods_by_department()
 grocery_list.list_the_list()
