@@ -3,6 +3,10 @@
         "department": "produce",
         "unit": "each"
     },
+    "avocados":{
+        "department": "produce",
+        "unit": "bag"
+    },
     "anthony salad":{
         "department": "produce",
         "unit": "each"
@@ -111,6 +115,10 @@
         "department": "produce",
         "unit": "bag"
     },
+    "spinach":{
+        "department": "produce",
+        "unit": "bag"
+    },
     "strawberries":{
         "department": "produce",
         "unit": "basket"
@@ -143,11 +151,21 @@
     },
 
 
+    "sour dough bread":{
+        "department": "bakery",
+    "unit": "loaf"
+    },
+
+
     "beef steak":{
         "department": "meat",
         "unit": "each"
     },
     "chicken breast":{
+        "department": "meat",
+        "unit": "package"
+    },
+    "chorizo":{
         "department": "meat",
         "unit": "package"
     },
@@ -188,6 +206,10 @@
     "mozzarella":{
         "department": "refrigeration",
         "unit": "block"
+    },
+    "turkey bacon":{
+        "department": "refrigeration",
+        "unit": "package"
     },
     "white cheddar":{
         "department": "refrigeration",
@@ -301,6 +323,10 @@
         "department": "aisle 6",
         "unit": "can"
     },
+    "spam":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
 
     
     "corn starch":{
@@ -349,12 +375,26 @@
     },
 
 
+    "granola":{
+        "department": "aisle 8",
+        "unit": "bag"
+    },
+
+
     "coffee": {
         "department":"aisle 9",
         "unit": "can"
     },
 
 
+    "microwave popcorn":{
+        "department": "aisle 10",
+        "unit": "box"
+    },
+    "mixed nuts":{
+        "department": "aisle 10",
+        "unit": "jar"
+    },
     "tortilla chips":{
         "department": "aisle 10",
         "unit": "bag"
@@ -378,6 +418,10 @@
     "eggs":{
         "department": "dairy",
         "unit": "18 pack"
+    },
+    "greek yogurt":{
+        "department": "dairy",
+        "unit": "tub"
     },
     "milk":{
         "department": "dairy",

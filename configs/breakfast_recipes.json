@@ -1,0 +1,32 @@
+{
+    "breakfast sammiches for a week":{
+        "ingredients":[
+            ["sour dough bread", 1],
+            ["avocados", 1],
+            ["turkey bacon", 2],
+            ["eggs", 1],
+            ["tapatio", 2]
+        ]},
+    "spam and eggs for 3 days":{
+        "ingredients":[
+            ["spam", 1],
+            ["eggs", 0.5],
+            ["spinach", 1]
+        ]},
+    "chorizo and egg tacos":{
+        "ingredients":[
+            ["tortillas", 1],
+            ["eggs", 0.5],
+            ["chorizo", 1],
+            ["mixed cheese", 0.5],
+            ["tapatio", 1]
+        ]},
+    "parfaits":{
+        "ingredients":[
+            ["greek yogurt", 1],
+            ["granola", 1],
+            ["honey", 1],
+            ["blueberries", 1],
+            ["strawberries", 1]
+        ]}
+}
