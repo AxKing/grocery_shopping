@@ -7,7 +7,7 @@ from pick import pick
 from pprint import pprint
 
 food_items_data = json.load(open("configs/food_items.json"))
-recipes_data = json.load(open("configs/recipes.json"))
+dinner_recipes_data = json.load(open("configs/dinner_recipes.json"))
 breakfast_recipes_data = json.load(open("configs/breakfast_recipes.json"))
 weekly_items_data = json.load(open("configs/weekly_items.json"))
 seldom_items_data = json.load(open("configs/seldom_items.json"))
@@ -25,7 +25,7 @@ for name, attributes in food_items_data.items():
     food_items[name] = food
 
 # Loading all the recipes with food items
-for name, attributes in recipes_data.items():
+for name, attributes in dinner_recipes_data.items():
     items_in_recipe = []
     for item, quantity in attributes['ingredients']:
         items_in_recipe.append((food_items[item], quantity))

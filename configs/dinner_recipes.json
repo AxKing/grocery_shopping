@@ -71,6 +71,13 @@
             ["cilantro", 0.5],
             ["pico de galo", 0.5]
         ]},
+    "fish & vegetables":{
+        "ingredients":[
+            ["fish filet", 2],
+            ["broccoli", 0.5],
+            ["cauliflower", 0.5],
+            ["baby carrots", 0.5]
+        ]},
     "ground beef tacos":{
         "ingredients":[
             ["ground beef", 1],
@@ -101,7 +108,7 @@
             ["sesame oil",1],
             ["red pepper flakes",0.1]
         ]},    
-    "lemon butter fish": {
+    "lemon butter fish & vegetables": {
         "ingredients": [
             ["fish filet",2],
             ["butter",3],
@@ -110,7 +117,10 @@
             ["lemon",3],
             ["garlic powder",1],
             ["onion powder",1],
-            ["olive oil",3]
+            ["olive oil",3],
+            ["broccoli", 0.5],
+            ["cauliflower", 0.5],
+            ["baby carrots", 0.5]
         ]},
     "pot roast":{
         "ingredients":[
