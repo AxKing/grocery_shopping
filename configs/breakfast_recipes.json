@@ -7,19 +7,23 @@
             ["eggs", 1],
             ["tapatio", 2]
         ]},
-    "spam and eggs for 3 days":{
-        "ingredients":[
-            ["spam", 1],
-            ["eggs", 0.5],
-            ["spinach", 1]
-        ]},
-    "chorizo and egg tacos":{
+    "chorizo & egg tacos":{
         "ingredients":[
             ["tortillas", 1],
             ["eggs", 0.5],
             ["chorizo", 1],
             ["mixed cheese", 0.5],
             ["tapatio", 1]
+        ]},
+    "fruit smoothies":{
+        "ingredients":[
+            ["frozen strawberries", 1],
+            ["frozen mango", 1],
+            ["frozen pineapple", 1],
+            ["frozen blueberries", 1],
+            ["bananas", 5],
+            ["honey", 1],
+            ["milk", 1]
         ]},
     "parfaits":{
         "ingredients":[
@@ -28,5 +32,11 @@
             ["honey", 1],
             ["blueberries", 1],
             ["strawberries", 1]
+        ]},
+    "spam & eggs for 3 days":{
+        "ingredients":[
+            ["spam", 1],
+            ["eggs", 0.5],
+            ["spinach", 1]
         ]}
 }

@@ -445,6 +445,22 @@
         "department": "frozen",
         "unit": "bag"
     },
+    "frozen blueberries":{
+        "department": "frozen",
+        "unit": "bag"
+    },
+    "frozen mango":{
+        "department": "frozen",
+        "unit": "bag"
+    },
+    "frozen pineapple":{
+        "department": "frozen",
+        "unit": "bag"
+    },
+    "frozen strawberries":{
+        "department": "frozen",
+        "unit": "bag"
+    },
     "garlic bread":{
         "department": "frozen",
         "unit": "piece"
