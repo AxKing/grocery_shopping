@@ -223,6 +223,10 @@
     },
 
 
+    "crutons": {
+        "department":"aisle 4",
+        "unit": "bag"
+    },
     "hot dog buns":{
         "department": "asile 4",
         "unit": "pack"
@@ -283,6 +287,10 @@
     },
 
 
+    "anthony soup":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
     "beef broth":{
         "department": "aisle 6",
         "unit": "cup"
@@ -300,6 +308,10 @@
         "unit": "jar"
     },
     "hormel chili":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
+    "kaylee soup":{
         "department": "aisle 6",
         "unit": "can"
     },

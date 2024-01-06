@@ -1,0 +1,12 @@
+{
+    "a salad each":{
+        "ingredients":[
+            ["anthony salad", 1],
+            ["kaylee salad", 1]
+        ]},
+    "a can of soup each":{
+        "ingredients":[
+            ["kaylee soup", 1],
+            ["anthony soup", 1]
+        ]}
+}
