@@ -69,7 +69,7 @@ options.append("--Exit")
 finished_adding_recipes = False
 while not finished_adding_recipes:
     if last_selected == None:
-        title = 'What it do Boo? What can I add to the list for you? (ENTER to select): '
+        title = 'What it do Boo? What can I add to the Breakfast list for you?'
     else:
         title = 'I have added ' + last_selected + ' to the cart. \n Here\'s the list so far: ' + str([x.name for x in weekly_breakfast_recipes])
     selected, index = pick(options, title, multiselect=False)
@@ -88,7 +88,7 @@ options.append("--Exit")
 finished_adding_recipes = False
 while not finished_adding_recipes:
     if last_selected == None:
-        title = 'Maybe something with a crunch? What do you want for lunch? (ENTER to select): '
+        title = 'Maybe something with a crunch? What\'s for lunch?'
     else:
         title = 'Okay Honey, I have added ' + last_selected + ' to the cart. \n Now it\'s: ' + str([x.name for x in weekly_lunch_recipes])
     selected, index = pick(options, title, multiselect=False)
