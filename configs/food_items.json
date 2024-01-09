@@ -207,6 +207,10 @@
         "department": "refrigeration",
         "unit": "block"
     },
+    "sausage patties":{
+        "department": "refrigeration",
+        "unit": "pack"
+    },
     "turkey bacon":{
         "department": "refrigeration",
         "unit": "package"
@@ -226,6 +230,10 @@
     "crutons": {
         "department":"aisle 4",
         "unit": "bag"
+    },
+    "english muffins":{
+        "department": "aisle 4",
+        "unit": "package"
     },
     "hot dog buns":{
         "department": "asile 4",

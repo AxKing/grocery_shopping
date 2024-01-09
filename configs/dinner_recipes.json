@@ -181,5 +181,8 @@
             ["onion powder", 2],
             ["garlic powder", 2],
             ["tapatio", 3]
-        ]}
+        ]},
+    "LEFTOVERS":{
+        "ingredients":[]
+    }
 }
