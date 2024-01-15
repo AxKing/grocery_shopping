@@ -11,6 +11,10 @@
         "department": "produce",
         "unit": "each"
     },
+    "apples":{
+        "department": "produce",
+        "unit": "each"
+    },
     "bananas":{
         "department": "produce",
         "unit": "each"
@@ -227,7 +231,7 @@
     },
 
 
-    "crutons": {
+    "croutons": {
         "department":"aisle 4",
         "unit": "bag"
     },
