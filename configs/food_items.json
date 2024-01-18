@@ -469,6 +469,10 @@
         "department": "frozen",
         "unit": "bag"
     },
+    "emergency pizza":{
+        "department": "frozen",
+        "unit": "each"
+    },
     "frozen blueberries":{
         "department": "frozen",
         "unit": "bag"
