@@ -1,5 +1,6 @@
 Departments and items they contain
 
+"healthy"
 "produce"
 "seafood"
 "bakery"

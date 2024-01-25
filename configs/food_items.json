@@ -1,4 +1,24 @@
 {
+    "pre-workout": {
+        "department" : "healthy",
+        "unit": "jar"
+    },
+    "protien powder":{
+        "department": "healthy",
+        "unit": "jar"
+    },
+    "kaylee mixed nuts":{
+        "department": "healthy",
+        "unit": "bag"
+    },
+    "banana chips":{
+        "department": "healthy",
+        "unit": "bag"
+    },
+    "anthony HEB meal":{
+        "department": "produce",
+        "unit": "each"
+    },
     "avocado":{
         "department": "produce",
         "unit": "each"
@@ -47,6 +67,9 @@
         "department": "produce",
         "unit": "head"
     },
+    "cherries":{
+        "department": "produce",
+        "unit": "basket"},
     "cilantro":{
         "department": "produce",
         "unit": "bunch"
@@ -66,6 +89,10 @@
     "jarlic":{
         "department": "produce",
         "unit": "tsp"
+    },
+    "kaylee HEB meal":{
+        "department": "produce",
+        "unit": "each"
     },
     "kaylee salad":{
         "department": "produce",

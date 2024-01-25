@@ -1,4 +1,3 @@
-#!/Users/MacBookPro-II/opt/anaconda3/bin/python
 from foods import Food
 from recipes import Recipe
 from shopping_list import Shopping_list

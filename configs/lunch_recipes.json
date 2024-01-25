@@ -8,5 +8,11 @@
         "ingredients":[
             ["kaylee soup", 1],
             ["anthony soup", 1]
-        ]}
+        ]},
+    "HEB Meals":{
+        "ingredients":[
+            ["kaylee HEB meal", 1],
+            ["anthony HEB meal", 1]
+        ]
+    }
 }
