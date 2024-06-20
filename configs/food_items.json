@@ -15,6 +15,8 @@
         "department": "healthy",
         "unit": "bag"
     },
+
+
     "anthony HEB meal":{
         "department": "produce",
         "unit": "each"
@@ -70,6 +72,7 @@
     "cherries":{
         "department": "produce",
         "unit": "basket"},
+
     "cilantro":{
         "department": "produce",
         "unit": "bunch"
@@ -85,6 +88,10 @@
     "ginger":{
         "department": "produce",
         "unit": "piece"
+    },
+    "healthy coconut water":{
+        "department": "produce",
+        "unit": "bottle"
     },
     "jarlic":{
         "department": "produce",
@@ -181,7 +188,7 @@
         "unit": "bag"
     },
 
-
+    
     "sour dough bread":{
         "department": "bakery",
     "unit": "loaf"
@@ -258,55 +265,69 @@
     },
 
 
+    "english muffins":{
+        "department": "aisle 3",
+        "unit": "package"
+    },
+    "hot dog buns":{
+        "department": "asile 3",
+        "unit": "pack"
+    },
+    "tapatio": {
+        "department": "aisle 3",
+        "unit": "tbsp"
+    },
+    "tortillas":{
+        "department": "aisle 3",
+        "unit": "package"
+    },
+
+
     "croutons": {
         "department":"aisle 4",
         "unit": "bag"
     },
-    "english muffins":{
-        "department": "aisle 4",
-        "unit": "package"
-    },
-    "hot dog buns":{
-        "department": "asile 4",
-        "unit": "pack"
-    },
-    "tapatio": {
-        "department": "aisle 4",
-        "unit": "tbsp"
-    },
-    "tortillas":{
-        "department": "aisle 4",
-        "unit": "package"
-    },
-
-
     "baby corn":{
-        "department": "aisle 5",
+        "department": "aisle 4",
         "unit": "can"
     },
+    "bacon bits":{
+        "department": "aisle 4",
+        "unit": "jar"
+    },
     "furikake":{
-        "department": "aisle 5",
+        "department": "aisle 4",
         "unit": "tbsp"
     },
-    "honey":{
-        "department": "aisle 5",
-        "unit": "cup"
-    },
     "low sodium soy sauce":{
-        "department": "aisle 5",
+        "department": "aisle 4",
         "unit": "tbsp"
     },
     "rice wine":{
-        "department": "aisle 5",
+        "department": "aisle 4",
         "unit": "tbsp"
     },
+    "sea weed": {
+        "department": "aisle 4",
+        "unit": "pack"
+    },
     "soy sauce":{
-        "department": "aisle 5",
+        "department": "aisle 4",
         "unit": "tbsp"
     },
     "sesame oil":{
-        "department": "aisle 5",
+        "department": "aisle 4",
         "unit": "tbsp"
+    },
+    "tortilla strips":{
+        "department": "aisle 4",
+        "unit": "bag"
+    },
+
+
+    "honey":{
+        "department": "aisle 5",
+        "unit": "cup"
     },
     "spaghetti noodles":{
         "department": "aisle 5",
@@ -320,19 +341,15 @@
         "department": "aisle 5",
         "unit": "cup"
     },
-    "worcestershire sauce":{
+    "mac & cheese":{
         "department": "aisle 5",
-        "unit": "tbsp"
+        "unit": "box"
     },
-
+    
 
     "anthony soup":{
         "department": "aisle 6",
         "unit": "can"
-    },
-    "beef broth":{
-        "department": "aisle 6",
-        "unit": "cup"
     },
     "black beans":{
         "department":"aisle 6",
@@ -358,14 +375,6 @@
         "department":"aisle 6",
         "unit": "can"
     },
-    "low sodium chicken broth":{
-        "department": "aisle 6",
-        "unit": "box"
-    },
-    "mac & cheese":{
-        "department": "aisle 6",
-        "unit": "box"
-    },
     "navy beans":{
         "department": "aisle 6",
         "unit": "can"
@@ -379,7 +388,15 @@
         "unit": "can"
     },
 
-    
+
+    "beef broth":{
+        "department": "aisle 7",
+        "unit": "cup"
+    },
+    "low sodium chicken broth":{
+        "department": "aisle 7",
+        "unit": "box"
+    },
     "corn starch":{
         "department": "aisle 7",
         "unit": "tbsp"
@@ -424,6 +441,18 @@
         "department": "aisle 7",
         "unit": "cup"
     },
+    "worcestershire sauce":{
+        "department": "aisle 7",
+        "unit": "tbsp"
+    },
+    "chili packet":{
+        "department": "aisle 7",
+        "unit": "each"
+    },
+    "taco seasoning packet":{
+        "department": "frozen",
+        "unit": "each"
+    },
 
 
     "granola":{
@@ -447,6 +476,10 @@
         "unit": "jar"
     },
     "tortilla chips":{
+        "department": "aisle 10",
+        "unit": "bag"
+    },
+    "rice cakes":{
         "department": "aisle 10",
         "unit": "bag"
     },
@@ -488,77 +521,73 @@
     },
 
 
-    "chili packet":{
-        "department": "frozen",
-        "unit": "each"
+    "toilet paper":{
+        "department": "aisle 23",
+        "unit": "package"
     },
-    "curly fries":{
-        "department": "frozen",
-        "unit": "bag"
-    },
-    "emergency pizza":{
-        "department": "frozen",
-        "unit": "each"
-    },
-    "frozen blueberries":{
-        "department": "frozen",
-        "unit": "bag"
-    },
-    "frozen mango":{
-        "department": "frozen",
-        "unit": "bag"
-    },
-    "frozen pineapple":{
-        "department": "frozen",
-        "unit": "bag"
-    },
-    "frozen strawberries":{
-        "department": "frozen",
-        "unit": "bag"
-    },
-    "garlic bread":{
-        "department": "frozen",
-        "unit": "piece"
-    },
-    "taco seasoning packet":{
-        "department": "frozen",
-        "unit": "each"
-    },
-
-
-    "dishwasher pods":{
-        "department": "household",
+    "paper towels":{
+        "department": "aisle 24",
         "unit": "package"
     },
     "kitchen trash bags":{
-        "department": "household",
+        "department": "aisle 24",
         "unit": "box"
     },
+
+    "dishwasher pods":{
+        "department": "aisle 27",
+        "unit": "package"
+    },
+    
     "laundry detergent":{
-        "department": "household",
+        "department": "aisle 28",
         "unit": "jug"
     },
-    "paper towels":{
-        "department": "household",
-        "unit": "package"
-    },
-    "toilet paper":{
-        "department": "household",
-        "unit": "package"
-    },
 
-
-    "anthony deodorant":{
-        "department": "personal hygiene",
-        "unit": "stick"
-    },
     "kaylee deodorant":{
-        "department": "personal hygiene",
+        "department": "aisle 36",
         "unit": "stick"
     },
+    "anthony deodorant":{
+        "department": "aisle 37",
+        "unit": "stick"
+    },
+    
     "toothpaste":{
-        "department": "personal hygiene",
+        "department": "aisle 38",
         "unit": "tube"
+    },    
+
+
+
+
+    "curly fries":{
+        "department": "aisle 16",
+        "unit": "bag"
+    },
+    "emergency pizza":{
+        "department": "aisle 14",
+        "unit": "each"
+    },
+    "frozen blueberries":{
+        "department": "aisle 15",
+        "unit": "bag"
+    },
+    "frozen mango":{
+        "department": "aisle 15",
+        "unit": "bag"
+    },
+    "frozen pineapple":{
+        "department": "aisle 15",
+        "unit": "bag"
+    },
+    "frozen strawberries":{
+        "department": "aisle 15",
+        "unit": "bag"
+    },
+    "garlic bread":{
+        "department": "aisle 14",
+        "unit": "piece"
     }
     
 }

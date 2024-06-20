@@ -45,7 +45,7 @@ class Shopping_list(object):
     def list_the_list(self):
         for i in range(2):
             print("")
-        print("I love you Cuppy Cup!")
+        print("I love you Cuppitty Cup Cup!")
         for dep in store_department_list:
             if self.items_by_department[dep]:
                 print(" ")
@@ -53,7 +53,4 @@ class Shopping_list(object):
             for entry in self.items_by_department[dep]:
                 #print(entry)
                 # ('black beans', 1, 'can')
-                if entry[1] == 1:
-                    print(entry[0] + " " + str(entry[1]) + " " + entry[2])
-                else:
-                    print(entry[0] + " " + str(entry[1]) + " " + entry[2]+"s")
+                print(entry[0] + " " + str(entry[1]) + " " + entry[2])

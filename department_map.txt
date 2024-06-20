@@ -1,17 +1,18 @@
 Departments and items they contain
 
-"healthy"
-"produce"
-"seafood"
-"bakery"
-"meat"
+"healthy": pre-workout, protein powder
+"produce": HEB meals, salads, produce
+"seafood": seafoods
+"bakery": fresh bread and tortillas
+"meat": THE MEATS
 "refrigeration": cheese, bacon, sausage
+
 "aisle 1": wine
 "aisle 2": beer and mixers
-"aisle 3": specialty vitamins, specialty drinks, energy bars, energy drinks, bulk foods
-"aisle 4": salad dressing, bread, tortillas & tostadas, peanut butter & jelly, latino foods, salsa/hot sauce
-"aisle 5": rice and beans, pasta & pasta sauce, olives & pickles, asian foods, condiments, vinegar
-"aisle 6": canned meat/fish/tomato, canned chili, canned fruit, canned beans, soup, boxed dinners
+"aisle 3": bread, tortillas & tostadas, peanut butter & jelly, olives & pickles, salsa/hot sauce
+"aisle 4": salad dressing, condiments, vinegar, asian foods, latino foods
+"aisle 5": rice and beans, pasta & pasta sauce, box dinners
+"aisle 6": canned meat/fish/tomato, canned chili, canned fruit, canned beans, soup
 "aisle 7": baking needs, gelatin, spices, flour & sugar, oil & shortening, cake mix
 "aisle 8": Cereal, hot cereal, breakfast bars, dried fruit/fruit cups, pancake mix & syrup, pudding
 "aisle 9": coffee & hot cocoa, creamers & filters cookies & crackers
@@ -19,8 +20,29 @@ Departments and items they contain
 "aisle 11": candy & gum, latino candy, coconut water, juice, juice boxes, soy/rice/almond milk
 "aisle 12": energy drinks, sparkling water, sports drinks, powdered drinks, ready to drink coffee/tea, tea
 "aisle 13": soda, ice coolers, water, bottled water, jug water
+
 "dairy": eggs, milk, yakult
-"frozen"
-"household"
-"personal hygiene"
-"pharmacy"
+
+"aisle 23": bath tissue, toilet paper
+"aisle 24": paper towels & Napkins, facial tissue, trash bags, plastic wrap, household food storage
+"aisle 25": ice coolers, insecticide, grilling tools lighter fluid, KODI, charcoal & matches
+"aisle 26": large plastic storage, automotive, lighting, mops & brooms, floor care, air filters
+"aisle 27": dish care, air care, candles, religious candles
+"aisle 28": bleach & fabric softener, laundry detergent, closet accessories, pre-wash
+"aisle 29": dog food, dry dog food, dog treats, puppy pads
+"aisle 30": dog food, canned dog food, rawhides, pet supplies, collars & leashes, pet chemicals
+"aisle 31": cat food, dry at food, cat treats, cat litter, bird food
+"aisle 32": baby clothing, baby food, baby safety, baby water, baby accessories, potty training
+"aisle 33": baby medicine, baby bath, baby wipes, diapers, infant toys
+
+"aisle 34": hair color, shampoo & conditioner, professional hair care, cotton, hair accessories, hair appliances
+"aisle 35": cosmetics, nail care, incontinence care
+"aisle 36": body wash, facial care, travel sizes, feminine hygiene, women's deodorant/shaving, women's personal wash
+"aisle 37": men's deodorant, men's personal wash, men's shaving, men's hair care, men's grooming, sun care
+"aisle 38": dental care, tooth paste, toothbrushes, mouthwash, first aid
+
+
+"aisle 17": ice cream, novelties, cones & toppings, frozen desserts
+"aisle 16": Frozen Breakfast, Frozen potatoes, frozen vegetables
+"aisle 15": frozen fruit, frozen juice, frozen complete meals, frozen family-size meals, frozen pot pies, meat substitute
+"aisle 14": frozen snacks, frozen pizza, frozen gluten free, frozen bread, frozen dinners, frozen international
