@@ -39,6 +39,14 @@
             ["cilantro", 0.5],
             ["lime", 1]
         ]},
+    "CBSP":{
+        "ingredients":[
+            ["chicken breast", 0.5],
+            ["sweet potato", 1],
+            ["broccoli", 1],
+            ["lemon", 1]
+        ]
+    },
     "chili cheese dogs":{
         "ingredients":[
             ["hot dog buns",1], 

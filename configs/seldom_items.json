@@ -9,6 +9,7 @@
     ["mixed nuts", 1],
     ["milk", 1],
     ["eggs", 1],
+    ["tapatio", 1],
     ["butter", 1],
     ["emergency pizza",1],
     ["toilet paper", 1],
@@ -17,5 +18,8 @@
     ["kitchen trash bags", 1],
     ["paper towels",1],
     ["toothpaste", 1],
-    ["yakult", 1]
+    ["yakult", 1],
+    ["dawn powerwash refill",1],
+    ["dawn dish soap", 1],
+    ["hand soap"]
 ]

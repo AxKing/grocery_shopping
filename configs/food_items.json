@@ -161,6 +161,10 @@
         "department": "produce",
         "unit": "basket"
     },
+    "sweet potato":{
+        "department": "produce",
+        "unit": "each"
+    },
     "thyme":{
         "department": "produce",
         "unit": "tbsp"
@@ -538,6 +542,14 @@
         "department": "aisle 27",
         "unit": "package"
     },
+    "dawn powerwash refill":{
+        "department": "aisle 27",
+        "unit": "bottle"
+    },
+    "dawn dish soap":{
+        "department": "aisle 27",
+        "unit": "bottle"
+    }, 
     
     "laundry detergent":{
         "department": "aisle 28",
@@ -547,6 +559,10 @@
     "kaylee deodorant":{
         "department": "aisle 36",
         "unit": "stick"
+    },
+    "hand soap":{
+        "department": "aisle 36",
+        "unit": "bottle"
     },
     "anthony deodorant":{
         "department": "aisle 37",
