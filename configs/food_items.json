@@ -363,6 +363,10 @@
         "department":"aisle 6",
         "unit": "can"
     },
+    "beef broth":{
+        "department": "aisle 6",
+        "unit": "cup"
+    },
     "enchilada/tortilla soup":{
         "department": "aisle 6",
         "unit": "jar"
@@ -393,10 +397,7 @@
     },
 
 
-    "beef broth":{
-        "department": "aisle 7",
-        "unit": "cup"
-    },
+
     "low sodium chicken broth":{
         "department": "aisle 7",
         "unit": "box"
@@ -492,6 +493,10 @@
     "monster":{
         "department": "aisle 12",
         "unit": "can"
+    },
+    "water flavor packet":{
+        "department": "aisle 12",
+        "unit": "package"
     },
 
 

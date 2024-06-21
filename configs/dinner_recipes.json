@@ -31,6 +31,18 @@
             ["corn starch",1.5],
             ["sesame oil", 3]
         ]},
+        "beef and broccoli":{
+            "ingredients":[
+                ["stir fry steak", 1],
+                ["olive oil", 2],
+                ["broccoli", 0.5],
+                ["ginger", 1],
+                ["garlic",0.2],
+                ["low sodium soy sauce", 6],
+                ["light brown sugar", 0.1],
+                ["corn starch",1.5],
+                ["sesame oil", 3]
+            ]},
     "chicken tacos":{
         "ingredients":[
             ["chicken breast", 0.5],

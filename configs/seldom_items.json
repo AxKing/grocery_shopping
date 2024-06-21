@@ -7,6 +7,7 @@
     ["mac & cheese", 1],
     ["microwave popcorn", 1],
     ["mixed nuts", 1],
+    ["greek yogurt", 1],
     ["milk", 1],
     ["eggs", 1],
     ["tapatio", 1],
@@ -21,5 +22,5 @@
     ["yakult", 1],
     ["dawn powerwash refill",1],
     ["dawn dish soap", 1],
-    ["hand soap"]
+    ["hand soap", 1]
 ]
