@@ -31,18 +31,18 @@
             ["corn starch",1.5],
             ["sesame oil", 3]
         ]},
-        "beef and broccoli":{
-            "ingredients":[
-                ["stir fry steak", 1],
-                ["olive oil", 2],
-                ["broccoli", 0.5],
-                ["ginger", 1],
-                ["garlic",0.2],
-                ["low sodium soy sauce", 6],
-                ["light brown sugar", 0.1],
-                ["corn starch",1.5],
-                ["sesame oil", 3]
-            ]},
+    "beef and broccoli":{
+        "ingredients":[
+            ["stir fry steak", 1],
+            ["olive oil", 2],
+            ["broccoli", 0.5],
+            ["ginger", 1],
+            ["garlic",0.2],
+            ["low sodium soy sauce", 6],
+            ["light brown sugar", 0.1],
+            ["corn starch",1.5],
+            ["sesame oil", 3]
+        ]},
     "chicken tacos":{
         "ingredients":[
             ["chicken breast", 0.5],
@@ -51,33 +51,32 @@
             ["cilantro", 0.5],
             ["lime", 1]
         ]},
+    "chicken chipotle bowls":{ 
+    "ingredients":[
+        ["chicken breast", 0.5],
+        ["white rice", 2],
+        ["cilantro",0.5],
+        ["lime", 2],
+        ["salsa", 1],
+        ["black or pinto beans", 1],
+        ["avocado", 2],
+        ["white cheddar", 0.25],
+        ["sour cream", 0.25]
+    ]},
     "CBSP":{
         "ingredients":[
             ["chicken breast", 0.5],
             ["sweet potato", 1],
             ["broccoli", 1],
             ["lemon", 1]
-        ]
-    },
-    "chili cheese dogs":{
+        ]},
+    "chili cheese dogs w/ curly fries":{
         "ingredients":[
             ["hot dog buns",1], 
             ["hot dogs", 1],
             ["hormel chili", 1],
             ["american sliced cheese", 1],
             ["curly fries", 0.5]
-        ]},
-    "chipotle bowls":{ 
-        "ingredients":[
-            ["chicken breast", 0.5],
-            ["white rice", 2],
-            ["cilantro",0.5],
-            ["lime", 2],
-            ["salsa", 1],
-            ["black or pinto beans", 1],
-            ["avocado", 2],
-            ["white cheddar", 0.25],
-            ["sour cream", 0.25]
         ]},
     "enchilada/tortilla soup": {
         "ingredients":[
@@ -96,7 +95,8 @@
             ["fish filet", 2],
             ["broccoli", 0.5],
             ["cauliflower", 0.5],
-            ["baby carrots", 0.5]
+            ["baby carrots", 0.5],
+            ["lemon", 1]
         ]},
     "ground beef tacos":{
         "ingredients":[
@@ -109,6 +109,19 @@
             ["taco seasoning packet",1],
             ["shredded lettuce", 1]
         ]},
+    "ground beef chipotle bowls":{
+    "ingredients":[
+        ["ground beef", 1],
+        ["white rice", 2],
+        ["cilantro",0.5],
+        ["lime", 2],
+        ["salsa", 1],
+        ["black or pinto beans", 1],
+        ["avocado", 2],
+        ["white cheddar", 0.25],
+        ["sour cream", 0.25],
+        ["taco seasoning packet", 1]
+    ]},
     "kaylee chicken stir fry":{
         "ingredients":[
             ["chicken breast", 0.5],
@@ -201,8 +214,5 @@
             ["onion powder", 2],
             ["garlic powder", 2],
             ["tapatio", 3]
-        ]},
-    "LEFTOVERS":{
-        "ingredients":[]
-    }
+        ]}
 }

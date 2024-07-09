@@ -129,6 +129,10 @@
         "department": "produce",
         "unit": "tub"
     },
+    "pre-cut mixed fruit":{
+        "department": "produce",
+        "unit": "package"
+    },
     "red bell pepper":{
         "department": "produce",
         "unit": "each"
@@ -160,6 +164,14 @@
     "strawberries":{
         "department": "produce",
         "unit": "basket"
+    },
+    "peaches":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "nectarines":{
+        "department": "produce",
+        "unit": "each"
     },
     "sweet potato":{
         "department": "produce",
@@ -281,6 +293,10 @@
         "department": "aisle 3",
         "unit": "tbsp"
     },
+    "a loaf of bread":{
+        "department": "aisle 3",
+        "unit": "loaf"
+    },
     "tortillas":{
         "department": "aisle 3",
         "unit": "package"
@@ -292,7 +308,7 @@
         "unit": "bag"
     },
     "baby corn":{
-        "department": "aisle 4",
+        "department": "aisle 6",
         "unit": "can"
     },
     "bacon bits":{
@@ -399,7 +415,7 @@
 
 
     "low sodium chicken broth":{
-        "department": "aisle 7",
+        "department": "aisle 6",
         "unit": "box"
     },
     "corn starch":{
@@ -455,7 +471,7 @@
         "unit": "each"
     },
     "taco seasoning packet":{
-        "department": "frozen",
+        "department": "aisle 7",
         "unit": "each"
     },
 
@@ -535,10 +551,19 @@
         "unit": "package"
     },
     "paper towels":{
-        "department": "aisle 24",
+        "department": "aisle 23",
         "unit": "package"
     },
+
     "kitchen trash bags":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
+    "gallon sized zip-lock bags":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
+    "sammich sized zip-lock bags":{
         "department": "aisle 24",
         "unit": "box"
     },
@@ -578,10 +603,21 @@
         "department": "aisle 38",
         "unit": "tube"
     },    
+    "dental floss":{
+        "department": "aisle 38",
+        "unit": "package"
+    },
 
 
 
-
+    "anthony ice cream":{
+        "department": "aisle 17",
+        "unit": "package"
+    },
+    "kaylee ice cream":{
+        "department": "aisle 17",
+        "unit": "package"
+    },
     "curly fries":{
         "department": "aisle 16",
         "unit": "bag"
