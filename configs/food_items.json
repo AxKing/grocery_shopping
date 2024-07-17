@@ -335,6 +335,10 @@
         "department": "aisle 4",
         "unit": "tbsp"
     },
+    "stir fry noodles":{
+        "department": "aisle 4",
+        "unit": "package"
+    },
     "sesame oil":{
         "department": "aisle 4",
         "unit": "tbsp"
