@@ -48,7 +48,7 @@
         ]},
     "breakfast burritos sausage":{
         "ingredients":[
-            ["tortillas", 1],
+            ["flour tortillas", 1],
             ["large potato", 1],
             ["eggs", 0.5],
             ["mixed cheese", 0.5],
@@ -57,7 +57,7 @@
     },
     "breakfast burritos bacon":{
         "ingredients":[
-            ["tortillas", 1],
+            ["flour tortillas", 1],
             ["large potato", 1],
             ["eggs", 0.5],
             ["mixed cheese", 0.5],
