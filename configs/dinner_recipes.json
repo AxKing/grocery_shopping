@@ -183,13 +183,13 @@
             ["rice wine", 0.25],
             ["soy sauce", 0.25]
         ]},
-    "spaghetti":{ 
+    "spaghetti for 2 nights":{ 
         "ingredients":[
-            ["spaghetti noodles", 0.5],
-            ["spaghetti sauce", 1],
-            ["ground sausage", 0.5],
-            ["mozzarella", 0.25],
-            ["garlic bread", 2]
+            ["spaghetti noodles", 1],
+            ["spaghetti sauce", 2],
+            ["italian sausage", 1],
+            ["mozzarella", 1],
+            ["garlic bread", 4]
         ]},
     "steak & baked potatoes": {
         "ingredients":[

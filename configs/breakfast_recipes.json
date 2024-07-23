@@ -45,5 +45,22 @@
             ["spam", 1],
             ["eggs", 0.5],
             ["spinach", 1]
+        ]},
+    "breakfast burritos sausage":{
+        "ingredients":[
+            ["tortillas", 1],
+            ["large potato", 1],
+            ["eggs", 0.5],
+            ["mixed cheese", 0.5],
+            ["ground breakfast sausage", 1]
+        ]
+    },
+    "breakfast burritos bacon":{
+        "ingredients":[
+            ["tortillas", 1],
+            ["large potato", 1],
+            ["eggs", 0.5],
+            ["mixed cheese", 0.5],
+            ["bacon", 1]
         ]}
 }

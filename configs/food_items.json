@@ -7,6 +7,11 @@
         "department": "healthy",
         "unit": "jar"
     },
+    "power bar":{
+        "department": "healthy",
+        "unit": "pack"
+    },
+
     "kaylee mixed nuts":{
         "department": "healthy",
         "unit": "bag"
@@ -231,10 +236,6 @@
         "department": "meat",
         "unit": "lb"
     },
-    "ground sausage":{
-        "department": "meat",
-        "unit": "lb"
-    },
     "ground turkey": {
         "department": "meat",
         "unit": "lb"
@@ -266,6 +267,10 @@
         "unit": "pack"
     },
     "turkey bacon":{
+        "department": "refrigeration",
+        "unit": "package"
+    },
+    "bacon":{
         "department": "refrigeration",
         "unit": "package"
     },
@@ -308,7 +313,7 @@
         "unit": "bag"
     },
     "baby corn":{
-        "department": "aisle 6",
+        "department": "aisle 4",
         "unit": "can"
     },
     "bacon bits":{
@@ -483,6 +488,14 @@
     "granola":{
         "department": "aisle 8",
         "unit": "bag"
+    },
+    "italian sausage":{
+        "department": "aisle 8",
+        "unit": "lb"
+    },
+    "ground breakfast sausage":{
+        "department": "aisle 8",
+        "unit": "lb"
     },
 
 
