@@ -61,7 +61,7 @@
         ["black or pinto beans", 1],
         ["avocado", 2],
         ["white cheddar", 0.25],
-        ["sour cream", 0.25]
+        ["sour cream", 1]
     ]},
     "CBSP":{
         "ingredients":[
@@ -84,7 +84,7 @@
             ["chicken breast", 0.5],
             ["tortilla chips", 1],
             ["avocado", 1],
-            ["sour cream", 0.5],
+            ["sour cream", 1],
             ["mixed cheese", 0.25],
             ["white onion", 0.5],
             ["cilantro", 0.5],
@@ -104,7 +104,7 @@
             ["tortillas", 0.5],
             ["white onion", 0.5],
             ["cilantro", 0.5],
-            ["sour cream", 0.1],
+            ["sour cream", 1],
             ["mixed cheese", 0.25],
             ["taco seasoning packet",1],
             ["shredded lettuce", 1]
@@ -119,7 +119,7 @@
         ["black or pinto beans", 1],
         ["avocado", 2],
         ["white cheddar", 0.25],
-        ["sour cream", 0.25],
+        ["sour cream", 1],
         ["taco seasoning packet", 1]
     ]},
     "kaylee chicken stir fry":{
