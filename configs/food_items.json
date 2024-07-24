@@ -278,6 +278,10 @@
         "department": "refrigeration",
         "unit": "block"
     },
+    "string cheese":{
+        "department": "refrigeration",
+        "unit": "package"
+    },
 
 
     "beer":{
@@ -524,6 +528,10 @@
     "rice cakes":{
         "department": "aisle 10",
         "unit": "bag"
+    },
+    "chomps":{
+        "department": "aisle 10",
+        "unit": "pack"
     },
 
 
