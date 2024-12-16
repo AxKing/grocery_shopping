@@ -203,9 +203,9 @@
             ["broccoli",0.5],
             ["baby carrots",0.5]
         ]},
-    "turkey chili": {
+    "ground beef chili": {
         "ingredients" : [
-            ["ground turkey", 1],
+            ["ground beef", 1],
             ["pinto beans", 2],
             ["black beans", 1],
             ["kidney beans", 1],
