@@ -43,6 +43,23 @@
             ["corn starch",1.5],
             ["sesame oil", 3]
         ]},
+    "beef (red) enchiladas w rice and beans":{
+        "ingredients":[
+            ["ground beef", 1],
+            ["taco seasoning packet", 1],
+            ["corn tortillas", 1],
+            ["red enchilada sauce", 1],
+            ["mixed cheese", 1],
+            ["black olives", 1]
+        ]},
+    "chicken (green) enchiladas w rice and beans":{
+        "ingredients":[
+            ["chicken breast", 0.5],
+            ["corn tortillas", 1],
+            ["green enchilada sauce", 1],
+            ["jack cheese", 1],
+            ["black olives", 1]
+        ]},
     "chicken tacos":{
         "ingredients":[
             ["chicken breast", 0.5],
@@ -52,16 +69,16 @@
             ["lime", 1]
         ]},
     "chicken chipotle bowls":{ 
-    "ingredients":[
-        ["chicken breast", 0.5],
-        ["white rice", 2],
-        ["cilantro",0.5],
-        ["lime", 2],
-        ["salsa", 1],
-        ["black or pinto beans", 1],
-        ["avocado", 2],
-        ["white cheddar", 0.25],
-        ["sour cream", 1]
+        "ingredients":[
+            ["chicken breast", 0.5],
+            ["white rice", 2],
+            ["cilantro",0.5],
+            ["lime", 2],
+            ["salsa", 1],
+            ["black or pinto beans", 1],
+            ["avocado", 2],
+            ["white cheddar", 0.25],
+            ["sour cream", 1]
     ]},
     "CBSP":{
         "ingredients":[
@@ -76,7 +93,7 @@
             ["hot dogs", 1],
             ["hormel chili", 1],
             ["american sliced cheese", 1],
-            ["curly fries", 0.5]
+            ["curly fries", 1]
         ]},
     "enchilada/tortilla soup": {
         "ingredients":[
@@ -122,6 +139,24 @@
         ["sour cream", 1],
         ["taco seasoning packet", 1]
     ]},
+    "frozen lasagna w garlic bread":{
+        "ingredients":[
+            ["lasagna", 1],
+            ["garlic bread", 4]
+        ]},
+    "ground beef chili": {
+        "ingredients" : [
+            ["ground beef", 1],
+            ["pinto beans", 2],
+            ["black beans", 1],
+            ["kidney beans", 1],
+            ["navy beans", 1],
+            ["chili packet", 1],
+            ["dash", 3],
+            ["onion powder", 2],
+            ["garlic powder", 2],
+            ["tapatio", 3]
+        ]},
     "kaylee chicken stir fry":{
         "ingredients":[
             ["chicken breast", 0.5],
@@ -170,6 +205,15 @@
             ["carrot",5],
             ["corn starch",2.5]
         ]},
+    "rice and beans":{
+        "ingredients":[
+            ["refried beans", 1],
+            ["white rice", 2],
+            ["low sodium chicken broth", 1],
+            ["olive oil", 1],
+            ["jarlic", 1],
+            ["tomato sauce 8oz", 1]
+        ]},
     "shrimp bowls":{
         "ingredients":[
             ["white rice", 2],
@@ -202,18 +246,5 @@
             ["baby potato",0.5],
             ["broccoli",0.5],
             ["baby carrots",0.5]
-        ]},
-    "ground beef chili": {
-        "ingredients" : [
-            ["ground beef", 1],
-            ["pinto beans", 2],
-            ["black beans", 1],
-            ["kidney beans", 1],
-            ["navy beans", 1],
-            ["chili packet", 1],
-            ["dash", 3],
-            ["onion powder", 2],
-            ["garlic powder", 2],
-            ["tapatio", 3]
         ]}
 }

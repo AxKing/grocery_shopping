@@ -10,6 +10,7 @@
     ["microwave popcorn", 1],
     ["mixed nuts", 1],
     ["greek yogurt", 1],
+    ["good ranch", 1],
     ["string cheese", 1],
     ["a loaf of bread", 1],
     ["milk", 1],
@@ -17,18 +18,8 @@
     ["tapatio", 1],
     ["butter", 1],
     ["emergency pizza",1],
-    ["toilet paper", 1],
-    ["dishwasher pods", 1],
-    ["laundry detergent", 1],
-    ["dental floss", 1],
+    ["lasagna", 1],
     ["chomps", 1],
-    ["kitchen trash bags", 1],
-    ["paper towels",1],
-    ["toothpaste", 1],
-    ["yakult", 1],
-    ["dawn powerwash refill",1],
-    ["dawn dish soap", 1],
-    ["hand soap", 1],
-    ["gallon sized zip-lock bags", 1],
-    ["sammich sized zip-lock bags",1]
+    ["yakult", 1]
+
 ]

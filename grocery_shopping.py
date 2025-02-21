@@ -10,7 +10,8 @@ breakfast_recipes_data = json.load(open("configs/breakfast_recipes.json"))
 dinner_recipes_data = json.load(open("configs/dinner_recipes.json"))
 lunch_recipes_data = json.load(open("configs/lunch_recipes.json"))
 weekly_items_data = json.load(open("configs/every_time_items.json"))
-seldom_items_data = json.load(open("configs/seldom_items.json"))
+seldom_items_data = json.load(open("configs/seldom_food_item_list.json"))
+house_items_list_data = json.load(open("configs/house_item_list.json"))
 kaylee_items_data = json.load(open("configs/kaylee_items.json"))
 anthony_items_data = json.load(open("configs/anthony_items.json"))
 
@@ -21,6 +22,7 @@ lunch_recipes = {}
 recipes = {}
 weekly_items = []
 seldom_items = []
+house_items = []
 kaylee_items = []
 anthony_items = []
 
@@ -43,8 +45,6 @@ for name, attribues in lunch_recipes_data.items():
         items_in_lunch_recipes.append((food_items[item], quantity))
     lunch_recipes[name] = Recipe(name, items_in_lunch_recipes)
 
-
-
 # Loading all the dinner recipes with food items
 for name, attributes in dinner_recipes_data.items():
     items_in_recipe = []
@@ -61,6 +61,10 @@ for weekly_item, quantity in weekly_items_data:
 # converting the list of seldom items to food item objects
 for seldom_item, quantity in seldom_items_data:
     seldom_items.append((food_items[seldom_item], quantity))
+
+# converting the list of house items to food item objects
+for house_item, quantity in house_items_list_data:
+    house_items.append((food_items[house_item], quantity))
 
 # converting the list of kaylee items to food item objects
 for kaylee_item, quantity in kaylee_items_data:
@@ -80,9 +84,9 @@ options.append("--Done")
 finished_adding_recipes = False
 while not finished_adding_recipes:
     if last_selected == None:
-        title = 'Yes, that was breakfast. What about second breakfast?'
+        title = 'BREAKFAST!!! DO YOU NEED IT?'
     else:
-        title = 'I have added ' + last_selected + ' to the cart. \n Here\'s the list so far: ' + str([x.name for x in weekly_breakfast_recipes])
+        title = 'I have added ' + last_selected + ' to the cart. \nHere\'s the BREAKFAST list so far: \n' + "\n".join(x.name for x in weekly_breakfast_recipes)
     selected, index = pick(options, title, multiselect=False)
     if selected == "--Done":
         finished_adding_recipes = True
@@ -99,9 +103,9 @@ options.append("--Done")
 finished_adding_recipes = False
 while not finished_adding_recipes:
     if last_selected == None:
-        title = 'Perhaps a salad... again?'
+        title = 'How about some lunchies?'
     else:
-        title = 'Okay Honey, I have added ' + last_selected + ' to the cart. \n Now it\'s: ' + str([x.name for x in weekly_lunch_recipes])
+        title = 'Okay Honey, I have added ' + last_selected + ' to the cart. \nHere is what we are having for lunch: \n' + "\n".join(x.name for x in weekly_lunch_recipes)
     selected, index = pick(options, title, multiselect=False)
     if selected == "--Done":
         finished_adding_recipes = True
@@ -121,47 +125,77 @@ options.append("--Done")
 finished_adding_recipes = False
 while not finished_adding_recipes:
     if last_selected == None:
-        title = 'What\'s for dinner?'
+        title = 'Eat some shit for dinner!'
     else:
-        title = 'I have added ' + last_selected + ' to the cart. \n So far I have: ' + str([x.name for x in weekly_recipes])
+        title = 'I have added ' + last_selected + ' to the cart. \nFor dinner we are going to have: \n' + "\n".join(x.name for x in weekly_recipes)
     selected, index = pick(options, title, multiselect=False)
     if selected == "--Done":
         finished_adding_recipes = True
     else:
+        if selected == "chicken (green) enchiladas w rice and beans" or selected == "beef (red) enchiladas w rice and beans":
+            weekly_recipes.append(recipes["rice and beans"])
         weekly_recipes.append(recipes[selected])
         last_selected = selected
 
 
-# Pick and Add the seldom items to grocery list
+# Pick and Add the sometimes items to grocery list
 last_selected = None
+selections = []
 seldom_items_data
 options = [x[0].name for x in seldom_items]
-options.append("--Exit")
+options.append("--Done")
 finished_adding_seldom_items = False
 while not finished_adding_seldom_items:
     if last_selected == None:
-        title = 'Don\'t forget this stuff...'
+        title = 'Don\'t forget some extra snackies...'
     else:
-        title = 'I have added ' + last_selected + ' to the cart.'
+        title = 'I have added ' + last_selected + ' to the cart. \nSo far, I\'ve got you down for: \n' + "\n".join(x for x in selections)
     selected, index = pick(options, title, multiselect=False)
     
-    if selected == "--Exit":
+    if selected == "--Done":
         finished_adding_seldom_items = True
     else:
         weekly_items.append(seldom_items[index])
+        selections.append(selected)
         last_selected = selected
+
+
+# Pick and Add the house items to  list
+last_selected = None
+selections = []
+house_items_list_data
+options = [x[0].name for x in house_items]
+options.append("--Done")
+finished_adding_house_items = False
+while not finished_adding_house_items:
+    if last_selected == None:
+        title = 'You made it to the HOUSEHOLD stuff... YAY!'
+    else:
+        title = 'I have added ' + last_selected + ' to the cart. \nSo far, I\'ve got you down for: \n' + "\n".join(x for x in selections)
+    selected, index = pick(options, title, multiselect=False)
+    
+    if selected == "--Done":
+        finished_adding_house_items = True
+    else:
+        weekly_items.append(house_items[index])
+        selections.append(selected)
+        last_selected = selected
+
+
+
 
 # Kaylee's stuff
 last_selected = None
+selections = []
 kaylee_items_data
 options = [x[0].name for x in kaylee_items]
 options.append("--Done")
 finished_adding_kaylee_items = False
 while not finished_adding_kaylee_items:
     if last_selected == None:
-        title = '...and a beer bong for the lady? What do you need?'
+        title = 'KAYLEEEEEEEEE What do you need?'
     else:
-        title = 'I have added ' + last_selected + ' to the cart.'
+        title = 'I have added ' + last_selected + ' to the cart. \nSo far, I\'ve got you down for: \n' + "\n".join(x for x in selections)
     selected, index = pick(options, title, multiselect=False)
     
     if selected == "--Done":
@@ -169,18 +203,20 @@ while not finished_adding_kaylee_items:
     else:
         weekly_items.append(kaylee_items[index])
         last_selected = selected
+        selections.append(selected)
 
 # Anthony's stuff
 last_selected = None
+selections = []
 anthony_items_data
 options = [x[0].name for x in anthony_items]
 options.append("--Done")
 finished_adding_anthony_items = False
 while not finished_adding_anthony_items:
     if last_selected == None:
-        title = 'For the handsome man; do you need any of deez for this trip?'
+        title = 'FFS is this done yet?'
     else:
-        title = 'I have added ' + last_selected + ' to the cart.'
+        title = 'I have added ' + last_selected + ' to the cart. \nSo far, I\'ve got you down for: \n' + "\n".join(x for x in selections)
     selected, index = pick(options, title, multiselect=False)
     
     if selected == "--Done":
@@ -188,6 +224,7 @@ while not finished_adding_anthony_items:
     else:
         weekly_items.append(anthony_items[index])
         last_selected = selected
+        selections.append(selected)
 
 # putting the dinner and breakfast recipes together
 # This is where I will call Adding the non-weekly items to the list

@@ -1,5 +1,8 @@
 import json
 store_department_list = json.load(open("configs/store_departments.json"))
+produce_order_list = json.load(open("configs/aisle_food_order.json"))
+aisle_food_order_list_dict = json.load(open("configs/aisle_food_order.json"))
+
 
 class Shopping_list(object):
     def __init__(self, recipes):
@@ -35,22 +38,36 @@ class Shopping_list(object):
     def list_foods_by_department(self):
         # thing.name, thing.department, thing.quantity, thing.unit
         # self.final_list -> dictionary "name": food_object, quantity
+        list_of_ordered_aisle_keys = aisle_food_order_list_dict.keys()
+        # print(list(list_of_ordered_aisle_keys))
         for dep in store_department_list:
             self.items_by_department[dep] = []
             for food_item, quantity in self.final_list.values():
                 if dep == food_item.department:
                     self.items_by_department[dep].append((food_item.name, quantity, food_item.unit))
-        # print("Final List by department", self.items_by_department)
-    
+        # This fixes the order of the produce items.
+        for dep in list_of_ordered_aisle_keys:
+            if self.items_by_department[dep]:
+                unordered_items = self.items_by_department[dep]
+                ordered_items = sorted( 
+                unordered_items,
+                key=lambda item: aisle_food_order_list_dict[dep].index(item[0]))
+                self.items_by_department[dep] = ordered_items
+                if len(ordered_items) != len(unordered_items):
+                    print("You're missing some items from the aisle_food_order.json file in the {dep}.")
+
+
     def list_the_list(self):
         for i in range(2):
             print("")
         print("I love you Cuppitty Cup Cup!")
-        for dep in store_department_list:
+        for dep in store_department_list:  
             if self.items_by_department[dep]:
                 print(" ")
                 print(dep.upper())
             for entry in self.items_by_department[dep]:
-                #print(entry)
-                # ('black beans', 1, 'can')
                 print(entry[0] + " " + str(entry[1]) + " " + entry[2])
+
+
+# for item in produce_order_list:
+#     print(item)

@@ -9,6 +9,16 @@
             ["kaylee soup", 1],
             ["anthony soup", 1]
         ]},
+    "sandwiches for 3 days":{
+        "ingredients":[
+            ["a loaf of bread", 1],
+            ["deli cheese", 1],
+            ["deli meat", 1],
+            ["baby spinach", 1],
+            ["avocados", 1],
+            ["good ranch", 1],
+            ["potato chips", 1]
+        ]},
     "HEB Meals":{
         "ingredients":[
             ["kaylee HEB meal", 1],

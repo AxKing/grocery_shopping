@@ -54,6 +54,10 @@
         "department": "produce",
         "unit": "lb"
     },
+    "baby spinach":{
+        "department": "produce",
+        "unit": "bag"
+    },
     "blueberries":{
         "department": "produce",
         "unit": "basket"
@@ -94,6 +98,10 @@
         "department": "produce",
         "unit": "piece"
     },
+    "good ranch":{
+        "department": "produce",
+        "unit": "bottle"
+    },
     "healthy coconut water":{
         "department": "produce",
         "unit": "bottle"
@@ -126,7 +134,15 @@
         "department": "produce",
         "unit": "box"
     },
+    "nectarines":{
+        "department": "produce",
+        "unit": "each"
+    },
     "orange bell pepper":{
+        "department": "produce",
+        "unit": "each"
+    },
+    "peaches":{
         "department": "produce",
         "unit": "each"
     },
@@ -169,14 +185,6 @@
     "strawberries":{
         "department": "produce",
         "unit": "basket"
-    },
-    "peaches":{
-        "department": "produce",
-        "unit": "each"
-    },
-    "nectarines":{
-        "department": "produce",
-        "unit": "each"
     },
     "sweet potato":{
         "department": "produce",
@@ -250,9 +258,21 @@
         "department": "refrigeration",
         "unit": "pack"
     },
+    "deli cheese":{
+        "department": "refrigeration",
+        "unit": "package"
+    },
+    "deli meat":{
+        "department": "refrigeration",
+        "unit": "package"
+    },
     "hot dogs":{
         "department": "refrigeration",
         "unit": "pack"
+    },
+    "jack cheese":{
+        "department": "refrigeration",
+        "unit": "block"
     },
     "mixed cheese":{
         "department": "refrigeration",
@@ -293,7 +313,18 @@
         "unit": "6er"
     },
 
-
+    "black olives":{
+        "department": "aisle 3",
+        "unit": "can"
+    },
+    "corn tortillas":{
+        "department": "aisle 3",
+        "unit": "package"
+    },
+    "green enchilada sauce":{
+        "department": "aisle 3",
+        "unit": "can"
+    },
     "english muffins":{
         "department": "aisle 3",
         "unit": "package"
@@ -301,6 +332,10 @@
     "hot dog buns":{
         "department": "asile 3",
         "unit": "pack"
+    },
+    "red enchilada sauce":{
+        "department": "aisle 3",
+        "unit": "can"
     },
     "tapatio": {
         "department": "aisle 3",
@@ -420,6 +455,10 @@
         "department":"aisle 6",
         "unit": "can"
     },
+    "low sodium chicken broth":{
+        "department": "aisle 6",
+        "unit": "box"
+    },
     "navy beans":{
         "department": "aisle 6",
         "unit": "can"
@@ -428,17 +467,22 @@
         "department": "aisle 6",
         "unit": "can"
     },
+    "refried beans":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
     "spam":{
+        "department": "aisle 6",
+        "unit": "can"
+    },
+    "tomato sauce 8oz":{
         "department": "aisle 6",
         "unit": "can"
     },
 
 
 
-    "low sodium chicken broth":{
-        "department": "aisle 6",
-        "unit": "box"
-    },
+    
     "corn starch":{
         "department": "aisle 7",
         "unit": "tbsp"
@@ -525,6 +569,10 @@
         "department": "aisle 10",
         "unit": "jar"
     },
+    "potato chips":{
+        "department": "aisle 10",
+        "unit": "bag"
+    },
     "tortilla chips":{
         "department": "aisle 10",
         "unit": "bag"
@@ -541,7 +589,7 @@
 
     "monster":{
         "department": "aisle 12",
-        "unit": "can"
+        "unit": "package"
     },
     "water flavor packet":{
         "department": "aisle 12",
@@ -601,6 +649,18 @@
         "unit": "box"
     },
 
+    "duster refill":{
+        "department": "aisle 26",
+        "unit": "box"
+    },
+    "swiffer wet jet refill":{
+        "department": "aisle 26",
+        "unit": "box"
+    },
+
+
+
+
     "dishwasher pods":{
         "department": "aisle 27",
         "unit": "package"
@@ -617,6 +677,11 @@
     "laundry detergent":{
         "department": "aisle 28",
         "unit": "jug"
+    },
+
+    "cotton rounds":{
+        "department": "aisle 34",
+        "unit": "package"
     },
 
     "kaylee deodorant":{
@@ -662,6 +727,10 @@
     "frozen blueberries":{
         "department": "aisle 15",
         "unit": "bag"
+    },
+    "lasagna":{
+        "department": "aisle 15",
+        "unit": "box"
     },
     "frozen mango":{
         "department": "aisle 15",
