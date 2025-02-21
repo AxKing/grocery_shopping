@@ -677,6 +677,10 @@
         "unit": "package"
     },
 
+    "aluminum foil":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
     "kitchen trash bags":{
         "department": "aisle 24",
         "unit": "box"
@@ -685,7 +689,11 @@
         "department": "aisle 24",
         "unit": "box"
     },
-    "sammich sized zip-lock bags":{
+    "saran wrap":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
+    "sandwich sized zip-lock bags":{
         "department": "aisle 24",
         "unit": "box"
     },
@@ -724,25 +732,58 @@
         "department": "aisle 34",
         "unit": "package"
     },
+    "kaylee conditioner":{
+        "department": "aisle 34",
+        "unit": "bottle"
+    },
+    "kaylee shampoo":{
+        "department": "aisle 34",
+        "unit": "bottle"
+    },
 
+    "kaylee bodywash":{
+        "department": "aisle 36",
+        "unit": "bottle"
+    },
     "kaylee deodorant":{
         "department": "aisle 36",
         "unit": "stick"
+    },
+    "kaylee loofah":{
+        "department": "aisle 37",
+        "unit": "scrubby scrub"
     },
     "hand soap":{
         "department": "aisle 36",
         "unit": "bottle"
     },
+
     "anthony deodorant":{
         "department": "aisle 37",
         "unit": "stick"
     },
-    
+    "anthony bodywash":{
+        "department": "aisle 37",
+        "unit": "bottle"
+    },
+    "anthony loofah":{
+        "department": "aisle 37",
+        "unit": "scrubby scrub"
+    },
+    "anthony shampoo":{
+        "department": "aisle 37",
+        "unit": "bottle"
+    },
+
     "toothpaste":{
         "department": "aisle 38",
         "unit": "tube"
     },    
     "dental floss":{
+        "department": "aisle 38",
+        "unit": "package"
+    },
+    "Q-tips":{
         "department": "aisle 38",
         "unit": "package"
     },
