@@ -246,5 +246,46 @@
             ["baby potato",0.5],
             ["broccoli",0.5],
             ["baby carrots",0.5]
+        ]},
+    "brisket tacos":{
+        "ingredients":[
+            ["brisket", 1],
+            ["tortillas", 1],
+            ["white onion", 1],
+            ["green salsa", 1],
+            ["brisket rub", 1],
+            ["cotija cheese", 1],
+            ["cilantro", 1],
+            ["lime", 1]
+        ]},
+    "brisket sandwiches":{
+        "ingredients":[
+            ["brisket", 1],
+            ["brisket rub", 1],
+            ["bbq sauce", 1],
+            ["a loaf of bread", 1],
+            ["white onion", 1],
+            ["sliced pickles", 1]
+        ]},
+    "pulled pork tacos":{
+        "ingredients":[
+            ["pork butt", 1],
+            ["tortillas", 1],
+            ["white onion", 1],
+            ["green salsa", 1],
+            ["pork rub", 1],
+            ["cotija cheese", 1],
+            ["chicharrones",1],
+            ["cilantro", 1],
+            ["lime", 1]
+        ]},
+    "pulled pork sandwiches":{
+        "ingredients":[
+            ["pork butt", 1],
+            ["pork rub", 1],
+            ["bbq sauce", 1],
+            ["a loaf of bread", 1],
+            ["white onion", 1],
+            ["sliced pickles", 1]
         ]}
 }

@@ -5,10 +5,10 @@ import json
 from pick import pick
 from pprint import pprint
 
-food_items_data = json.load(open("configs/food_items.json"))
+store_items_data = json.load(open("configs/all_store_items.json"))
 breakfast_recipes_data = json.load(open("configs/breakfast_recipes.json"))
-dinner_recipes_data = json.load(open("configs/dinner_recipes.json"))
 lunch_recipes_data = json.load(open("configs/lunch_recipes.json"))
+dinner_recipes_data = json.load(open("configs/dinner_recipes.json"))
 weekly_items_data = json.load(open("configs/every_time_items.json"))
 seldom_items_data = json.load(open("configs/seldom_food_item_list.json"))
 house_items_list_data = json.load(open("configs/house_item_list.json"))
@@ -27,7 +27,7 @@ kaylee_items = []
 anthony_items = []
 
 # Loading in all of the food items from the json to the food class
-for name, attributes in food_items_data.items():
+for name, attributes in store_items_data.items():
     food = Food(name, attributes['department'], attributes['unit'])
     food_items[name] = food
 
@@ -138,7 +138,7 @@ while not finished_adding_recipes:
         last_selected = selected
 
 
-# Pick and Add the sometimes items to grocery list
+# Snacks to grocery list
 last_selected = None
 selections = []
 seldom_items_data
@@ -160,7 +160,7 @@ while not finished_adding_seldom_items:
         last_selected = selected
 
 
-# Pick and Add the house items to  list
+# house items to  list
 last_selected = None
 selections = []
 house_items_list_data
