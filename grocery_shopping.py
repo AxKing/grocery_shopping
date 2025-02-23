@@ -77,7 +77,7 @@ options.append("--Done")
 finished_adding_recipes = False
 while not finished_adding_recipes:
     if last_selected == None:
-        title = 'BREAKFAST!!! DO YOU NEED IT?'
+        title = 'BREAKFAST'
     else:
         title = 'I have added ' + last_selected + ' to the cart. \nHere\'s the BREAKFAST list so far: \n' + "\n".join(x.name for x in weekly_breakfast_recipes)
     selected, index = pick(options, title, multiselect=False)
@@ -96,7 +96,7 @@ options.append("--Done")
 finished_adding_recipes = False
 while not finished_adding_recipes:
     if last_selected == None:
-        title = 'How about some lunchies?'
+        title = 'Lunch'
     else:
         title = 'Okay Honey, I have added ' + last_selected + ' to the cart. \nHere is what we are having for lunch: \n' + "\n".join(x.name for x in weekly_lunch_recipes)
     selected, index = pick(options, title, multiselect=False)
@@ -107,8 +107,6 @@ while not finished_adding_recipes:
         last_selected = selected
 
 
-
-
 # DINNER
 weekly_recipes = []
 last_selected = None
@@ -117,7 +115,7 @@ options.append("--Done")
 finished_adding_recipes = False
 while not finished_adding_recipes:
     if last_selected == None:
-        title = 'Eat some shit for dinner!'
+        title = 'Dinner'
     else:
         title = 'I have added ' + last_selected + ' to the cart. \nFor dinner we are going to have: \n' + "\n".join(x.name for x in weekly_recipes)
     selected, index = pick(options, title, multiselect=False)
@@ -138,7 +136,7 @@ options.append("--Done")
 finished_adding_seldom_items = False
 while not finished_adding_seldom_items:
     if last_selected == None:
-        title = 'Don\'t forget to scroll for some extra snackies...'
+        title = 'Extra foods!'
     else:
         title = 'I have added ' + last_selected + ' to the cart. \nSo far, I\'ve got you down for: \n' + "\n".join(x for x in selections)
     selected, index = pick(options, title, multiselect=False)
@@ -158,7 +156,7 @@ options.append("--Done")
 finished_adding_house_items = False
 while not finished_adding_house_items:
     if last_selected == None:
-        title = 'You made it to the HOUSEHOLD stuff... YAY!'
+        title = 'Household stuff'
     else:
         title = 'I have added ' + last_selected + ' to the cart. \nSo far, I\'ve got you down for: \n' + "\n".join(x for x in selections)
     selected, index = pick(options, title, multiselect=False)
@@ -180,7 +178,7 @@ options.append("--Done")
 finished_adding_hygiene_items = False
 while not finished_adding_hygiene_items:
     if last_selected == None:
-        title = 'Hygiene Stuff'
+        title = 'Hygiene Things'
     else:
         title = 'I have added ' + last_selected + ' to the cart. \nSo far, I\'ve got you down for: \n' + "\n".join(x for x in selections)
     selected, index = pick(options, title, multiselect=False)

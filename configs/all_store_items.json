@@ -274,6 +274,10 @@
         "department": "refrigeration",
         "unit": "package"
     },
+    "blue cheese":{
+        "department": "refrigeration",
+        "unit": "tub"
+    },
     "cotija cheese":{
         "department": "refrigeration",
         "unit": "package"
@@ -622,12 +626,12 @@
         "department": "aisle 10",
         "unit": "bag"
     },
-    "chomps":{
-        "department": "aisle 10",
-        "unit": "pack"
+
+
+    "gatorade":{
+        "department": "aisle 12",
+        "unit": "package"
     },
-
-
     "monster":{
         "department": "aisle 12",
         "unit": "package"
@@ -682,6 +686,10 @@
         "unit": "box"
     },
     "kitchen trash bags":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
+    "bathroom trash bags":{
         "department": "aisle 24",
         "unit": "box"
     },
@@ -753,6 +761,10 @@
         "department": "aisle 37",
         "unit": "scrubby scrub"
     },
+    "kaylee shaving cream":{
+        "department": "aisle 36",
+        "unit": "bottle"
+    },
     "hand soap":{
         "department": "aisle 36",
         "unit": "bottle"
@@ -774,6 +786,10 @@
         "department": "aisle 37",
         "unit": "bottle"
     },
+    "disposable razors":{
+        "department": "aisle 37",
+        "unit": "package"
+    },
 
     "toothpaste":{
         "department": "aisle 38",
@@ -790,11 +806,7 @@
 
 
 
-    "anthony ice cream":{
-        "department": "aisle 17",
-        "unit": "package"
-    },
-    "kaylee ice cream":{
+    "ice cream":{
         "department": "aisle 17",
         "unit": "package"
     },

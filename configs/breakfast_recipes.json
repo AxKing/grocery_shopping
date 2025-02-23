@@ -1,5 +1,5 @@
 {
-    "Kaylee's breakfast sandwiches for a week":{
+    "KayLee's breakfast sandwiches for a week":{
         "ingredients":[
             ["sour dough bread", 1],
             ["avocados", 1],
@@ -22,7 +22,7 @@
             ["mixed cheese", 0.5],
             ["tapatio", 1]
         ]},
-    "fruit smoothies":{
+    "frozen fruit smoothies":{
         "ingredients":[
             ["frozen strawberries", 1],
             ["frozen mango", 1],

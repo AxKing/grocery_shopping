@@ -15,6 +15,18 @@
             ["corn starch",1.5],
             ["sesame oil", 3]
         ]},
+    "beef and broccoli":{
+        "ingredients":[
+            ["stir fry steak", 1],
+            ["olive oil", 2],
+            ["broccoli", 0.5],
+            ["ginger", 1],
+            ["garlic",0.2],
+            ["low sodium soy sauce", 6],
+            ["light brown sugar", 0.1],
+            ["corn starch",1.5],
+            ["sesame oil", 3]
+        ]},
     "beef stir fry":{
         "ingredients":[
             ["stir fry steak", 1],
@@ -31,18 +43,6 @@
             ["corn starch",1.5],
             ["sesame oil", 3]
         ]},
-    "beef and broccoli":{
-        "ingredients":[
-            ["stir fry steak", 1],
-            ["olive oil", 2],
-            ["broccoli", 0.5],
-            ["ginger", 1],
-            ["garlic",0.2],
-            ["low sodium soy sauce", 6],
-            ["light brown sugar", 0.1],
-            ["corn starch",1.5],
-            ["sesame oil", 3]
-        ]},
     "beef (red) enchiladas w rice and beans":{
         "ingredients":[
             ["ground beef", 1],
@@ -52,6 +52,33 @@
             ["mixed cheese", 1],
             ["black olives", 1]
         ]},
+    "brisket sandwiches":{
+        "ingredients":[
+            ["brisket", 1],
+            ["brisket rub", 1],
+            ["bbq sauce", 1],
+            ["a loaf of bread", 1],
+            ["white onion", 1],
+            ["sliced pickles", 1]
+        ]},
+    "brisket tacos":{
+        "ingredients":[
+            ["brisket", 1],
+            ["tortillas", 1],
+            ["white onion", 1],
+            ["green salsa", 1],
+            ["brisket rub", 1],
+            ["cotija cheese", 1],
+            ["cilantro", 1],
+            ["lime", 1]
+        ]},
+    "CBSP":{
+        "ingredients":[
+            ["chicken breast", 0.5],
+            ["sweet potato", 1],
+            ["broccoli", 1],
+            ["lemon", 1]
+        ]},
     "chicken (green) enchiladas w rice and beans":{
         "ingredients":[
             ["chicken breast", 0.5],
@@ -59,14 +86,6 @@
             ["green enchilada sauce", 1],
             ["jack cheese", 1],
             ["black olives", 1]
-        ]},
-    "chicken tacos":{
-        "ingredients":[
-            ["chicken breast", 0.5],
-            ["tortillas", 0.5],
-            ["white onion", 0.5],
-            ["cilantro", 0.5],
-            ["lime", 1]
         ]},
     "chicken chipotle bowls":{ 
         "ingredients":[
@@ -80,12 +99,13 @@
             ["white cheddar", 0.25],
             ["sour cream", 1]
     ]},
-    "CBSP":{
+    "chicken tacos":{
         "ingredients":[
             ["chicken breast", 0.5],
-            ["sweet potato", 1],
-            ["broccoli", 1],
-            ["lemon", 1]
+            ["tortillas", 0.5],
+            ["white onion", 0.5],
+            ["cilantro", 0.5],
+            ["lime", 1]
         ]},
     "chili cheese dogs w/ curly fries":{
         "ingredients":[
@@ -115,30 +135,6 @@
             ["baby carrots", 0.5],
             ["lemon", 1]
         ]},
-    "ground beef tacos":{
-        "ingredients":[
-            ["ground beef", 1],
-            ["tortillas", 0.5],
-            ["white onion", 0.5],
-            ["cilantro", 0.5],
-            ["sour cream", 1],
-            ["mixed cheese", 0.25],
-            ["taco seasoning packet",1],
-            ["shredded lettuce", 1]
-        ]},
-    "ground beef chipotle bowls":{
-    "ingredients":[
-        ["ground beef", 1],
-        ["white rice", 2],
-        ["cilantro",0.5],
-        ["lime", 2],
-        ["salsa", 1],
-        ["black or pinto beans", 1],
-        ["avocado", 2],
-        ["white cheddar", 0.25],
-        ["sour cream", 1],
-        ["taco seasoning packet", 1]
-    ]},
     "frozen lasagna w garlic bread":{
         "ingredients":[
             ["lasagna", 1],
@@ -156,6 +152,30 @@
             ["onion powder", 2],
             ["garlic powder", 2],
             ["tapatio", 3]
+        ]},
+    "ground beef chipotle bowls":{
+        "ingredients":[
+            ["ground beef", 1],
+            ["white rice", 2],
+            ["cilantro",0.5],
+            ["lime", 2],
+            ["salsa", 1],
+            ["black or pinto beans", 1],
+            ["avocado", 2],
+            ["white cheddar", 0.25],
+            ["sour cream", 1],
+            ["taco seasoning packet", 1]
+        ]},
+    "ground beef tacos":{
+        "ingredients":[
+            ["ground beef", 1],
+            ["tortillas", 0.5],
+            ["white onion", 0.5],
+            ["cilantro", 0.5],
+            ["sour cream", 1],
+            ["mixed cheese", 0.25],
+            ["taco seasoning packet",1],
+            ["shredded lettuce", 1]
         ]},
     "kaylee chicken stir fry":{
         "ingredients":[
@@ -205,6 +225,27 @@
             ["carrot",5],
             ["corn starch",2.5]
         ]},
+    "pulled pork sandwiches":{
+        "ingredients":[
+            ["pork butt", 1],
+            ["pork rub", 1],
+            ["bbq sauce", 1],
+            ["a loaf of bread", 1],
+            ["white onion", 1],
+            ["sliced pickles", 1]
+        ]},
+    "pulled pork tacos":{
+        "ingredients":[
+            ["pork butt", 1],
+            ["tortillas", 1],
+            ["white onion", 1],
+            ["green salsa", 1],
+            ["pork rub", 1],
+            ["cotija cheese", 1],
+            ["chicharrones",1],
+            ["cilantro", 1],
+            ["lime", 1]
+        ]},
     "rice and beans":{
         "ingredients":[
             ["refried beans", 1],
@@ -246,46 +287,5 @@
             ["baby potato",0.5],
             ["broccoli",0.5],
             ["baby carrots",0.5]
-        ]},
-    "brisket tacos":{
-        "ingredients":[
-            ["brisket", 1],
-            ["tortillas", 1],
-            ["white onion", 1],
-            ["green salsa", 1],
-            ["brisket rub", 1],
-            ["cotija cheese", 1],
-            ["cilantro", 1],
-            ["lime", 1]
-        ]},
-    "brisket sandwiches":{
-        "ingredients":[
-            ["brisket", 1],
-            ["brisket rub", 1],
-            ["bbq sauce", 1],
-            ["a loaf of bread", 1],
-            ["white onion", 1],
-            ["sliced pickles", 1]
-        ]},
-    "pulled pork tacos":{
-        "ingredients":[
-            ["pork butt", 1],
-            ["tortillas", 1],
-            ["white onion", 1],
-            ["green salsa", 1],
-            ["pork rub", 1],
-            ["cotija cheese", 1],
-            ["chicharrones",1],
-            ["cilantro", 1],
-            ["lime", 1]
-        ]},
-    "pulled pork sandwiches":{
-        "ingredients":[
-            ["pork butt", 1],
-            ["pork rub", 1],
-            ["bbq sauce", 1],
-            ["a loaf of bread", 1],
-            ["white onion", 1],
-            ["sliced pickles", 1]
         ]}
 }
