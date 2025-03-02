@@ -685,11 +685,15 @@
         "department": "aisle 24",
         "unit": "box"
     },
-    "kitchen trash bags":{
+    "trash bags - bathroom":{
         "department": "aisle 24",
         "unit": "box"
     },
-    "bathroom trash bags":{
+    "trash bags - kitchen":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
+    "trash bags - 33 gal":{
         "department": "aisle 24",
         "unit": "box"
     },
@@ -734,6 +738,10 @@
     "laundry detergent":{
         "department": "aisle 28",
         "unit": "jug"
+    },
+    "air filter 20x25x1":{
+        "department": "aisle 28",
+        "unit": "2 pac"
     },
 
     "cotton rounds":{
