@@ -1,13 +1,13 @@
 {
     "a salad each":{
         "ingredients":[
-            ["anthony salad", 1],
-            ["kaylee salad", 1]
+            ["Anthony salad", 1],
+            ["Kaylee salad", 1]
         ]},
     "a can of soup each":{
         "ingredients":[
-            ["kaylee soup", 1],
-            ["anthony soup", 1]
+            ["Kaylee soup", 1],
+            ["Anthony soup", 1]
         ]},
     "sandwiches for 3 days":{
         "ingredients":[
@@ -21,8 +21,8 @@
         ]},
     "HEB Meals":{
         "ingredients":[
-            ["kaylee HEB meal", 1],
-            ["anthony HEB meal", 1]
+            ["Kaylee HEB meal", 1],
+            ["Anthony HEB meal", 1]
         ]
     }
 }

@@ -1,5 +1,5 @@
 {
-    "anthony chicken stir fry":{
+    "Anthony chicken stir fry":{
         "ingredients":[
             ["chicken breast", 0.5],
             ["olive oil", 0.1],
@@ -151,7 +151,7 @@
             ["dash", 3],
             ["onion powder", 2],
             ["garlic powder", 2],
-            ["tapatio", 3]
+            ["Tapatio", 3]
         ]},
     "ground beef chipotle bowls":{
         "ingredients":[
@@ -177,7 +177,7 @@
             ["taco seasoning packet",1],
             ["shredded lettuce", 1]
         ]},
-    "kaylee chicken stir fry":{
+    "Kaylee chicken stir fry":{
         "ingredients":[
             ["chicken breast", 0.5],
             ["olive oil",2],

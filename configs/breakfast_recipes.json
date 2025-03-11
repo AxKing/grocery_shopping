@@ -5,7 +5,7 @@
             ["avocados", 1],
             ["turkey bacon", 2],
             ["eggs", 1],
-            ["tapatio", 2]
+            ["Tapatio", 2]
         ]},
     "sausage McMuffin with cheese":{
         "ingredients":[
@@ -20,7 +20,7 @@
             ["eggs", 0.5],
             ["chorizo", 1],
             ["mixed cheese", 0.5],
-            ["tapatio", 1]
+            ["Tapatio", 1]
         ]},
     "frozen fruit smoothies":{
         "ingredients":[

@@ -12,7 +12,7 @@
         "unit": "pack"
     },
 
-    "kaylee mixed nuts":{
+    "Kaylee mixed nuts":{
         "department": "healthy",
         "unit": "bag"
     },
@@ -22,7 +22,7 @@
     },
 
 
-    "anthony HEB meal":{
+    "Anthony HEB meal":{
         "department": "produce",
         "unit": "each"
     },
@@ -34,7 +34,7 @@
         "department": "produce",
         "unit": "bag"
     },
-    "anthony salad":{
+    "Anthony salad":{
         "department": "produce",
         "unit": "each"
     },
@@ -110,11 +110,11 @@
         "department": "produce",
         "unit": "tsp"
     },
-    "kaylee HEB meal":{
+    "Kaylee HEB meal":{
         "department": "produce",
         "unit": "each"
     },
-    "kaylee salad":{
+    "Kaylee salad":{
         "department": "produce",
         "unit": "each"
     },
@@ -369,7 +369,7 @@
         "department":"aisle 3",
         "unit": "jar"
     },
-    "tapatio": {
+    "Tapatio": {
         "department": "aisle 3",
         "unit": "tbsp"
     },
@@ -456,7 +456,7 @@
     },
     
 
-    "anthony soup":{
+    "Anthony soup":{
         "department": "aisle 6",
         "unit": "can"
     },
@@ -480,7 +480,7 @@
         "department": "aisle 6",
         "unit": "can"
     },
-    "kaylee soup":{
+    "Kaylee soup":{
         "department": "aisle 6",
         "unit": "can"
     },
@@ -670,6 +670,10 @@
         "department": "dairy",
         "unit": "pack"
     },
+    "yogurt smoothies":{
+        "department": "dairy",
+        "unit": "pack"
+    },
 
 
     "toilet paper":{
@@ -748,28 +752,28 @@
         "department": "aisle 34",
         "unit": "package"
     },
-    "kaylee conditioner":{
+    "Kaylee conditioner":{
         "department": "aisle 34",
         "unit": "bottle"
     },
-    "kaylee shampoo":{
+    "Kaylee shampoo":{
         "department": "aisle 34",
         "unit": "bottle"
     },
 
-    "kaylee bodywash":{
+    "Kaylee bodywash":{
         "department": "aisle 36",
         "unit": "bottle"
     },
-    "kaylee deodorant":{
+    "Kaylee deodorant":{
         "department": "aisle 36",
         "unit": "stick"
     },
-    "kaylee loofah":{
+    "Kaylee loofah":{
         "department": "aisle 37",
         "unit": "scrubby scrub"
     },
-    "kaylee shaving cream":{
+    "Kaylee shaving cream":{
         "department": "aisle 36",
         "unit": "bottle"
     },
@@ -778,19 +782,19 @@
         "unit": "bottle"
     },
 
-    "anthony deodorant":{
+    "Anthony deodorant":{
         "department": "aisle 37",
         "unit": "stick"
     },
-    "anthony bodywash":{
+    "Anthony bodywash":{
         "department": "aisle 37",
         "unit": "bottle"
     },
-    "anthony loofah":{
+    "Anthony loofah":{
         "department": "aisle 37",
         "unit": "scrubby scrub"
     },
-    "anthony shampoo":{
+    "Anthony shampoo":{
         "department": "aisle 37",
         "unit": "bottle"
     },
