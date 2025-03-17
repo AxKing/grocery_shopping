@@ -14,6 +14,10 @@
             ["sausage patties", 1],
             ["eggs", 0.3]
         ]},
+    "Billy Jean breakfast sandwiches":{
+        "ingredients":[
+            ["Billy Jeans", 1]
+    ]},
     "chorizo & egg tacos":{
         "ingredients":[
             ["tortillas", 1],

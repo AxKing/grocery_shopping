@@ -442,6 +442,10 @@
         "department": "aisle 5",
         "unit": "cup"
     },
+    "mac & cheese":{
+        "department": "aisle 5",
+        "unit": "box"
+    },
     "spaghetti noodles":{
         "department": "aisle 5",
         "unit": "package"
@@ -450,14 +454,15 @@
         "department": "aisle 5",
         "unit": "jar"
     },
+    "taco seasoning packet":{
+        "department": "aisle 5",
+        "unit": "each"
+    },
     "white rice":{
         "department": "aisle 5",
         "unit": "cup"
     },
-    "mac & cheese":{
-        "department": "aisle 5",
-        "unit": "box"
-    },
+    
     
 
     "Anthony soup":{
@@ -580,10 +585,7 @@
         "department": "aisle 7",
         "unit": "each"
     },
-    "taco seasoning packet":{
-        "department": "aisle 7",
-        "unit": "each"
-    },
+    
 
 
     "granola":{
@@ -705,15 +707,19 @@
         "department": "aisle 24",
         "unit": "box"
     },
-    "gallon sized zip-lock bags":{
-        "department": "aisle 24",
-        "unit": "box"
-    },
     "saran wrap":{
         "department": "aisle 24",
         "unit": "box"
     },
-    "sandwich sized zip-lock bags":{
+    "zip-lock bags - sandwich":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
+    "zip-lock bags - quart":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
+    "zip-lock bags - gallon":{
         "department": "aisle 24",
         "unit": "box"
     },
@@ -831,14 +837,16 @@
         "department": "aisle 17",
         "unit": "package"
     },
+
     "curly fries":{
         "department": "aisle 16",
         "unit": "bag"
     },
-    "emergency pizza":{
-        "department": "aisle 14",
-        "unit": "each"
+    "Billy Jeans":{
+        "department": "aisle 16",
+        "unit": "box"
     },
+    
     "frozen blueberries":{
         "department": "aisle 15",
         "unit": "bag"
@@ -859,9 +867,13 @@
         "department": "aisle 15",
         "unit": "bag"
     },
+
     "garlic bread":{
         "department": "aisle 14",
         "unit": "piece"
+    },
+    "emergency pizza":{
+        "department": "aisle 14",
+        "unit": "each"
     }
-    
 }
