@@ -831,7 +831,10 @@
         "unit": "package"
     },
 
-
+    "contact solution":{
+        "department": "aisle 40",
+        "unit": "bottle"
+    },
 
     "ice cream":{
         "department": "aisle 17",
