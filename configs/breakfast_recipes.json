@@ -18,6 +18,11 @@
         "ingredients":[
             ["Billy Jeans", 1]
     ]},
+    "breakfast corndogs":{
+        "ingredients":[
+            ["breakfast corndogs", 1]
+        ]
+    },
     "chorizo & egg tacos":{
         "ingredients":[
             ["tortillas", 1],
