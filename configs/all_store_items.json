@@ -7,9 +7,17 @@
         "department": "healthy",
         "unit": "jar"
     },
-    "power bar":{
+    "protien bars":{
         "department": "healthy",
         "unit": "pack"
+    },
+    "chia seeds":{
+        "department": "healthy",
+        "unit": "bag"
+    },
+    "peanut butter":{
+        "department":"healthy",
+        "unit":"tub"
     },
 
     "Kaylee mixed nuts":{
@@ -306,6 +314,10 @@
         "department": "refrigeration",
         "unit": "block"
     },
+    "parmesan cheese":{
+        "department": "refrigeration",
+        "unit": "wedge"
+    },
     "sausage patties":{
         "department": "refrigeration",
         "unit": "pack"
@@ -315,6 +327,10 @@
         "unit": "package"
     },
     "turkey bacon":{
+        "department": "refrigeration",
+        "unit": "package"
+    },
+    "turkey sausage":{
         "department": "refrigeration",
         "unit": "package"
     },
@@ -404,6 +420,10 @@
         "department": "aisle 4",
         "unit": "jar"
     },
+    "eel sauce":{
+        "department": "aisle 4",
+        "unit": "tbsp"
+    },
     "furikake":{
         "department": "aisle 4",
         "unit": "tbsp"
@@ -416,12 +436,20 @@
         "department": "aisle 4",
         "unit": "tbsp"
     },
+    "siracha":{
+        "department":"aisle 4",
+        "unit":"bottle"
+    },
     "sea weed": {
         "department": "aisle 4",
         "unit": "pack"
     },
     "soy sauce":{
         "department": "aisle 4",
+        "unit": "tbsp"
+    },
+    "spicy mayo":{
+        "department":"aisle 4",
         "unit": "tbsp"
     },
     "stir fry noodles":{
@@ -446,6 +474,10 @@
         "department": "aisle 5",
         "unit": "box"
     },
+    "protien penne":{
+        "department": "aisle 5",
+        "unit": "box"
+    },
     "spaghetti noodles":{
         "department": "aisle 5",
         "unit": "package"
@@ -459,6 +491,10 @@
         "unit": "each"
     },
     "white rice":{
+        "department": "aisle 5",
+        "unit": "cup"
+    },
+    "brown rice":{
         "department": "aisle 5",
         "unit": "cup"
     },
@@ -529,6 +565,10 @@
         "department": "aisle 7",
         "unit": "bottle"
     },
+    "cinnamon":{
+        "department": "aisle 7",
+        "unit": "bottle"
+    },
     "corn starch":{
         "department": "aisle 7",
         "unit": "tbsp"
@@ -596,9 +636,17 @@
         "department": "aisle 8",
         "unit": "lb"
     },
+    "maple syrup":{
+        "department":"aisle 8",
+        "unit": "bottle"
+    },
     "ground breakfast sausage":{
         "department": "aisle 8",
         "unit": "lb"
+    },
+    "oats":{
+        "department": "aisle 8",
+        "unit": "bag"
     },
 
 
@@ -660,9 +708,17 @@
         "department": "dairy",
         "unit": "18 pack"
     },
+    "egg whites":{
+        "department": "dairy",
+        "unit": "carton"
+    },
     "greek yogurt":{
         "department": "dairy",
         "unit": "tub"
+    },
+    "almond milk":{
+        "department": "dairy",
+        "unit": "half gallon"
     },
     "milk":{
         "department": "dairy",
@@ -775,7 +831,10 @@
         "department": "aisle 34",
         "unit": "bottle"
     },
-
+    "Kaylee body scrub":{
+        "department": "aisle 34",
+        "unit": "tub"
+    },
     "Kaylee bodywash":{
         "department": "aisle 36",
         "unit": "bottle"
@@ -841,10 +900,7 @@
         "unit": "package"
     },
 
-    "curly fries":{
-        "department": "aisle 16",
-        "unit": "bag"
-    },
+    
     "Billy Jeans":{
         "department": "aisle 16",
         "unit": "box"
@@ -852,6 +908,18 @@
     "breakfast corndogs":{
         "department": "aisle 16",
         "unit": "box"
+    },
+    "curly fries":{
+        "department": "aisle 16",
+        "unit": "bag"
+    },
+    "edamame":{
+        "department":"aisle 16", 
+        "unit":"bag"
+    },
+    "sweet corn":{
+        "department": "aisle 16",
+        "unit":"bag"
     },
     
     "frozen blueberries":{
