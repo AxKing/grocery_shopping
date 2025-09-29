@@ -1,41 +1,9 @@
 {
-    "Anthony chicken stir fry":{
-        "ingredients":[
-            ["chicken breast", 0.5],
-            ["olive oil", 0.1],
-            ["broccoli", 0.5],
-            ["cauliflower", 0.5],
-            ["baby carrots", 0.5],
-            ["mushroom",0.5],
-            ["snow peas", 0.5],
-            ["ginger", 1],
-            ["garlic",3],
-            ["low sodium soy sauce", 6],
-            ["light brown sugar", 0.1],
-            ["corn starch",1.5],
-            ["sesame oil", 3]
-        ]},
     "beef and broccoli":{
         "ingredients":[
             ["stir fry steak", 1],
             ["olive oil", 2],
             ["broccoli", 0.5],
-            ["ginger", 1],
-            ["garlic",0.2],
-            ["low sodium soy sauce", 6],
-            ["light brown sugar", 0.1],
-            ["corn starch",1.5],
-            ["sesame oil", 3]
-        ]},
-    "beef stir fry":{
-        "ingredients":[
-            ["stir fry steak", 1],
-            ["olive oil", 2],
-            ["broccoli", 0.5],
-            ["cauliflower", 0.5],
-            ["baby carrots", 0.5],
-            ["mushroom",0.5],
-            ["snow peas", 0.5],
             ["ginger", 1],
             ["garlic",0.2],
             ["low sodium soy sauce", 6],
@@ -78,6 +46,13 @@
             ["sweet potato", 1],
             ["broccoli", 1],
             ["lemon", 1]
+        ]},
+    "CCBP":{
+        "ingredients":[
+            ["chicken breast", 0.5],
+            ["lemon", 1],
+            ["baby potato",1],
+            ["sweet corn",1]
         ]},
     "chicken (green) enchiladas w rice and beans":{
         "ingredients":[
@@ -126,6 +101,15 @@
             ["white onion", 0.5],
             ["cilantro", 0.5],
             ["pico de galo", 0.5]
+        ]},
+    "creamy garlic chicken parmesan pasta":{
+        "ingredients":[
+            ["chicken breast", 0.5],
+            ["protien penne", 1],
+            ["parmesan cheese",1],
+            ["greek yogurt",1],
+            ["jarlic", 1],
+            ["lemon",1]
         ]},
     "fish & vegetables":{
         "ingredients":[

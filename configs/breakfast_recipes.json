@@ -1,38 +1,19 @@
 {
-    "KayLee's breakfast sandwiches for a week":{
+    "breakfast sandwiches":{
         "ingredients":[
-            ["sour dough bread", 1],
-            ["avocados", 1],
-            ["turkey bacon", 2],
+            ["a loaf of bread", 1],
+            ["avocado", 3],
+            ["turkey bacon", 1],
             ["eggs", 1],
-            ["Tapatio", 2]
-        ]},
-    "sausage McMuffin with cheese":{
-        "ingredients":[
-            ["american sliced cheese", 1],
-            ["english muffins", 1],
-            ["sausage patties", 1],
-            ["eggs", 0.3]
-        ]},
-    "chorizo & egg tacos":{
-        "ingredients":[
-            ["tortillas", 1],
-            ["eggs", 0.5],
-            ["chorizo", 1],
-            ["mixed cheese", 0.5],
             ["Tapatio", 1]
         ]},
-    "frozen fruit smoothies":{
+    "protien smoothies":{
         "ingredients":[
-            ["frozen strawberries", 1],
-            ["frozen mango", 1],
-            ["frozen pineapple", 1],
-            ["frozen blueberries", 1],
-            ["bananas", 5],
-            ["honey", 1],
-            ["milk", 1]
+            ["protien powder", 1],
+            ["bananas", 1],
+            ["almond milk", 1]
         ]},
-    "parfaits":{
+    "greek yogurt bowls":{
         "ingredients":[
             ["greek yogurt", 1],
             ["granola", 1],
@@ -40,12 +21,29 @@
             ["blueberries", 1],
             ["strawberries", 1]
         ]},
-    "spam & eggs for 3 days":{
+    "egg white & protien scramble":{
         "ingredients":[
-            ["spam", 1],
-            ["eggs", 0.5],
+            ["turkey sausage", 1],
+            ["salsa",1],
+            ["egg whites", 1],
             ["spinach", 1]
         ]},
+    "overnight oats":{
+        "ingredients":[
+            ["oats", 1],
+            ["almond milk",1],
+            ["chia seeds", 1],
+            ["cinnamon",1],
+            ["maple syrup",1],
+            ["peanut butter",1],
+            ["strawberries",1],
+            ["blueberries",1],
+            ["bananas",1]
+        ]},
+    "Billy Jean breakfast sandwiches":{
+        "ingredients":[
+            ["Billy Jeans", 1]
+    ]},
     "breakfast burritos w sausage":{
         "ingredients":[
             ["flour tortillas", 1],
@@ -62,5 +60,17 @@
             ["eggs", 0.5],
             ["mixed cheese", 0.5],
             ["bacon", 1]
+        ]},
+    "breakfast corndogs":{
+        "ingredients":[
+            ["breakfast corndogs", 1]
+        ]},
+    "chorizo & egg tacos":{
+        "ingredients":[
+            ["tortillas", 1],
+            ["eggs", 0.5],
+            ["chorizo", 1],
+            ["mixed cheese", 0.5],
+            ["Tapatio", 1]
         ]}
-}
+    }

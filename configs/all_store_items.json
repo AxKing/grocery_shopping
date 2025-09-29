@@ -7,9 +7,17 @@
         "department": "healthy",
         "unit": "jar"
     },
-    "power bar":{
+    "protien bars":{
         "department": "healthy",
         "unit": "pack"
+    },
+    "chia seeds":{
+        "department": "healthy",
+        "unit": "bag"
+    },
+    "peanut butter":{
+        "department":"healthy",
+        "unit":"tub"
     },
 
     "Kaylee mixed nuts":{
@@ -306,6 +314,10 @@
         "department": "refrigeration",
         "unit": "block"
     },
+    "parmesan cheese":{
+        "department": "refrigeration",
+        "unit": "wedge"
+    },
     "sausage patties":{
         "department": "refrigeration",
         "unit": "pack"
@@ -315,6 +327,10 @@
         "unit": "package"
     },
     "turkey bacon":{
+        "department": "refrigeration",
+        "unit": "package"
+    },
+    "turkey sausage":{
         "department": "refrigeration",
         "unit": "package"
     },
@@ -340,6 +356,10 @@
     "black olives":{
         "department": "aisle 3",
         "unit": "can"
+    },
+    "Cholula": {
+        "department": "aisle 3",
+        "unit": "bottle"
     },
     "corn tortillas":{
         "department": "aisle 3",
@@ -371,7 +391,7 @@
     },
     "Tapatio": {
         "department": "aisle 3",
-        "unit": "tbsp"
+        "unit": "bottle"
     },
     "tortillas":{
         "department": "aisle 3",
@@ -400,6 +420,10 @@
         "department": "aisle 4",
         "unit": "jar"
     },
+    "eel sauce":{
+        "department": "aisle 4",
+        "unit": "tbsp"
+    },
     "furikake":{
         "department": "aisle 4",
         "unit": "tbsp"
@@ -412,12 +436,20 @@
         "department": "aisle 4",
         "unit": "tbsp"
     },
+    "siracha":{
+        "department":"aisle 4",
+        "unit":"bottle"
+    },
     "sea weed": {
         "department": "aisle 4",
         "unit": "pack"
     },
     "soy sauce":{
         "department": "aisle 4",
+        "unit": "tbsp"
+    },
+    "spicy mayo":{
+        "department":"aisle 4",
         "unit": "tbsp"
     },
     "stir fry noodles":{
@@ -438,6 +470,14 @@
         "department": "aisle 5",
         "unit": "cup"
     },
+    "mac & cheese":{
+        "department": "aisle 5",
+        "unit": "box"
+    },
+    "protien penne":{
+        "department": "aisle 5",
+        "unit": "box"
+    },
     "spaghetti noodles":{
         "department": "aisle 5",
         "unit": "package"
@@ -446,14 +486,19 @@
         "department": "aisle 5",
         "unit": "jar"
     },
+    "taco seasoning packet":{
+        "department": "aisle 5",
+        "unit": "each"
+    },
     "white rice":{
         "department": "aisle 5",
         "unit": "cup"
     },
-    "mac & cheese":{
+    "brown rice":{
         "department": "aisle 5",
-        "unit": "box"
+        "unit": "cup"
     },
+    
     
 
     "Anthony soup":{
@@ -520,6 +565,10 @@
         "department": "aisle 7",
         "unit": "bottle"
     },
+    "cinnamon":{
+        "department": "aisle 7",
+        "unit": "bottle"
+    },
     "corn starch":{
         "department": "aisle 7",
         "unit": "tbsp"
@@ -576,10 +625,7 @@
         "department": "aisle 7",
         "unit": "each"
     },
-    "taco seasoning packet":{
-        "department": "aisle 7",
-        "unit": "each"
-    },
+    
 
 
     "granola":{
@@ -590,9 +636,17 @@
         "department": "aisle 8",
         "unit": "lb"
     },
+    "maple syrup":{
+        "department":"aisle 8",
+        "unit": "bottle"
+    },
     "ground breakfast sausage":{
         "department": "aisle 8",
         "unit": "lb"
+    },
+    "oats":{
+        "department": "aisle 8",
+        "unit": "bag"
     },
 
 
@@ -654,9 +708,17 @@
         "department": "dairy",
         "unit": "18 pack"
     },
+    "egg whites":{
+        "department": "dairy",
+        "unit": "carton"
+    },
     "greek yogurt":{
         "department": "dairy",
         "unit": "tub"
+    },
+    "almond milk":{
+        "department": "dairy",
+        "unit": "half gallon"
     },
     "milk":{
         "department": "dairy",
@@ -701,17 +763,26 @@
         "department": "aisle 24",
         "unit": "box"
     },
-    "gallon sized zip-lock bags":{
-        "department": "aisle 24",
-        "unit": "box"
-    },
     "saran wrap":{
         "department": "aisle 24",
         "unit": "box"
     },
-    "sandwich sized zip-lock bags":{
+    "zip-lock bags - sandwich":{
         "department": "aisle 24",
         "unit": "box"
+    },
+    "zip-lock bags - quart":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
+    "zip-lock bags - gallon":{
+        "department": "aisle 24",
+        "unit": "box"
+    },
+
+    "wasp/hornet spray":{
+        "department": "aisle 25",
+        "unit": "can"
     },
 
     "duster refill":{
@@ -760,7 +831,10 @@
         "department": "aisle 34",
         "unit": "bottle"
     },
-
+    "Kaylee body scrub":{
+        "department": "aisle 34",
+        "unit": "tub"
+    },
     "Kaylee bodywash":{
         "department": "aisle 36",
         "unit": "bottle"
@@ -816,20 +890,38 @@
         "unit": "package"
     },
 
-
+    "contact solution":{
+        "department": "aisle 40",
+        "unit": "bottle"
+    },
 
     "ice cream":{
         "department": "aisle 17",
         "unit": "package"
     },
+
+    
+    "Billy Jeans":{
+        "department": "aisle 16",
+        "unit": "box"
+    },
+    "breakfast corndogs":{
+        "department": "aisle 16",
+        "unit": "box"
+    },
     "curly fries":{
         "department": "aisle 16",
         "unit": "bag"
     },
-    "emergency pizza":{
-        "department": "aisle 14",
-        "unit": "each"
+    "edamame":{
+        "department":"aisle 16", 
+        "unit":"bag"
     },
+    "sweet corn":{
+        "department": "aisle 16",
+        "unit":"bag"
+    },
+    
     "frozen blueberries":{
         "department": "aisle 15",
         "unit": "bag"
@@ -850,9 +942,13 @@
         "department": "aisle 15",
         "unit": "bag"
     },
+
     "garlic bread":{
         "department": "aisle 14",
         "unit": "piece"
+    },
+    "emergency pizza":{
+        "department": "aisle 14",
+        "unit": "each"
     }
-    
 }

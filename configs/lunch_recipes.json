@@ -9,15 +9,28 @@
             ["Kaylee soup", 1],
             ["Anthony soup", 1]
         ]},
-    "sandwiches for 3 days":{
+    "sandwiches":{
         "ingredients":[
             ["a loaf of bread", 1],
             ["deli cheese", 1],
             ["deli meat", 1],
             ["baby spinach", 1],
             ["avocados", 1],
-            ["good ranch", 1],
-            ["potato chips", 1]
+            ["good ranch", 1]
+        ]},
+    "sushi bowls":{
+        "ingredients":[
+            ["brown rice",1],
+            ["shrimp", 1],
+            ["avocado",2],
+            ["cucumber",1],
+            ["shredded carrots", 1],
+            ["edamame",1],
+            ["furikake",1],
+            ["sesame seeds",1],
+            ["spicy mayo",1],
+            ["eel sauce",1],
+            ["siracha",1]
         ]},
     "HEB Meals":{
         "ingredients":[
