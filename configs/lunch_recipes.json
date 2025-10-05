@@ -9,7 +9,7 @@
             ["Kaylee soup", 1],
             ["Anthony soup", 1]
         ]},
-    "sandwiches":{
+    "classic deli sandwiches":{
         "ingredients":[
             ["a loaf of bread", 1],
             ["deli cheese", 1],
@@ -17,6 +17,22 @@
             ["baby spinach", 1],
             ["avocados", 1],
             ["good ranch", 1]
+        ]},
+    "greek style turkey wraps":{
+        "ingredients":[
+            ["wraps", 1],
+            ["smoked turkey", 1],
+            ["feta cheese", 1],
+            ["baby spinach", 1],
+            ["avocado", 1],
+            ["tzatziki", 1],
+            ["cucumber", 1],
+            ["hummus",1]
+        ]},
+    "HEB Meals":{
+        "ingredients":[
+            ["Kaylee HEB meal", 1],
+            ["Anthony HEB meal", 1]
         ]},
     "sushi bowls":{
         "ingredients":[
@@ -32,10 +48,13 @@
             ["eel sauce",1],
             ["siracha",1]
         ]},
-    "HEB Meals":{
+    "turkey sandwiches":{
         "ingredients":[
-            ["Kaylee HEB meal", 1],
-            ["Anthony HEB meal", 1]
-        ]
-    }
+            ["a loaf of bread", 1],
+            ["smoked turkey", 1],
+            ["avocado", 1],
+            ["provolone cheese", 1],
+            ["baby spinach", 1],        
+            ["healthy ranch", 1]
+        ]}
 }

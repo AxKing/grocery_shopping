@@ -65,14 +65,14 @@
     "chicken chipotle bowls":{ 
         "ingredients":[
             ["chicken breast", 0.5],
-            ["white rice", 2],
+            ["brown rice", 2],
             ["cilantro",0.5],
             ["lime", 2],
-            ["salsa", 1],
             ["black or pinto beans", 1],
-            ["avocado", 2],
+            ["avocado", 1],
+            ["a bag of healthy crisps", 1],
             ["white cheddar", 0.25],
-            ["sour cream", 1]
+            ["greek yogurt", 0.5]
     ]},
     "chicken tacos":{
         "ingredients":[
@@ -140,14 +140,14 @@
     "ground beef chipotle bowls":{
         "ingredients":[
             ["ground beef", 1],
-            ["white rice", 2],
+            ["brown rice", 2],
             ["cilantro",0.5],
             ["lime", 2],
-            ["salsa", 1],
             ["black or pinto beans", 1],
-            ["avocado", 2],
+            ["avocado", 1],
+            ["a bag of healthy crisps", 1],
             ["white cheddar", 0.25],
-            ["sour cream", 1],
+            ["greek yogurt", 0.5],
             ["taco seasoning packet", 1]
         ]},
     "ground beef tacos":{

@@ -13,7 +13,7 @@ Departments and items they contain
 "aisle 4": salad dressing, condiments, vinegar, asian foods, latino foods
 "aisle 5": rice and beans, pasta & pasta sauce, box dinners
 "aisle 6": canned meat/fish/tomato, canned chili, canned fruit, canned beans, soup
-"aisle 7": baking needs, gelatin, spices, flour & sugar, oil & shortening, cake mix
+"aisle 7": baking needs, gelatin, spices, flour & sugar, oil & shortening, cake mixes
 "aisle 8": Cereal, hot cereal, breakfast bars, dried fruit/fruit cups, pancake mix & syrup, pudding
 "aisle 9": coffee & hot cocoa, creamers & filters cookies & crackers
 "aisle 10": chips, salty snacks, popcorn & nuts, rice cakes, wheat snacks, pretzels,

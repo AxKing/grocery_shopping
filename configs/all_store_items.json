@@ -1,4 +1,12 @@
 {
+    "a bag of healthy crisps":{
+        "department": "healthy",
+        "unit": "bag"
+    },
+    "healthy ranch": {
+        "department" : "healthy",
+        "unit": "jar"
+    },
     "pre-workout": {
         "department" : "healthy",
         "unit": "jar"
@@ -113,6 +121,10 @@
     "healthy coconut water":{
         "department": "produce",
         "unit": "bottle"
+    },
+    "hummus":{
+        "department": "produce",
+        "unit": "each"
     },
     "jarlic":{
         "department": "produce",
@@ -302,6 +314,10 @@
         "department": "refrigeration",
         "unit": "pack"
     },
+    "feta cheese":{
+        "department": "refrigeration",
+        "unit": "tub"
+    },
     "jack cheese":{
         "department": "refrigeration",
         "unit": "block"
@@ -318,9 +334,17 @@
         "department": "refrigeration",
         "unit": "wedge"
     },
+    "provolone cheese":{
+        "department": "refrigeration",
+        "unit": "bag"
+    },
     "sausage patties":{
         "department": "refrigeration",
         "unit": "pack"
+    },
+    "smoked turkey":{
+        "department": "refrigeration",
+        "unit": "package"
     },
     "string cheese":{
         "department": "refrigeration",
@@ -333,6 +357,10 @@
     "turkey sausage":{
         "department": "refrigeration",
         "unit": "package"
+    },
+    "tzatziki":{
+        "department": "refrigeration",
+        "unit": "jar"
     },
     "white cheddar":{
         "department": "refrigeration",
@@ -400,6 +428,10 @@
     "whole pickles":{
         "department":"aisle 3",
         "unit": "jar"
+    },
+    "wraps":{
+        "department": "aisle 3",
+        "unit": "package"
     },
     
 
