@@ -122,10 +122,6 @@
         "department": "produce",
         "unit": "bottle"
     },
-    "hummus":{
-        "department": "produce",
-        "unit": "each"
-    },
     "jarlic":{
         "department": "produce",
         "unit": "tsp"
@@ -313,6 +309,10 @@
     "hot dogs":{
         "department": "refrigeration",
         "unit": "pack"
+    },
+    "hummus":{
+        "department": "refrigeration",
+        "unit": "each"
     },
     "feta cheese":{
         "department": "refrigeration",
