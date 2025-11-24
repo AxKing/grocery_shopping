@@ -406,7 +406,7 @@
         "unit": "can"
     },
     "hot dog buns":{
-        "department": "asile 3",
+        "department": "aisle 3",
         "unit": "pack"
     },
     "red enchilada sauce":{
@@ -867,6 +867,7 @@
         "department": "aisle 34",
         "unit": "tub"
     },
+
     "Kaylee bodywash":{
         "department": "aisle 36",
         "unit": "bottle"
@@ -876,7 +877,7 @@
         "unit": "stick"
     },
     "Kaylee loofah":{
-        "department": "aisle 37",
+        "department": "aisle 36",
         "unit": "scrubby scrub"
     },
     "Kaylee shaving cream":{
@@ -886,6 +887,10 @@
     "hand soap":{
         "department": "aisle 36",
         "unit": "bottle"
+    },
+    "Oxy pads":{
+        "department": "aisle 36",
+        "unit": "jar"
     },
 
     "Anthony deodorant":{
@@ -909,6 +914,14 @@
         "unit": "package"
     },
 
+    "Anthony toothbrush":{
+        "department": "aisle 38",
+        "unit": "pack"
+    },
+    "Kaylee toothbrush":{
+        "department": "aisle 38",
+        "unit": "pack"
+    },
     "toothpaste":{
         "department": "aisle 38",
         "unit": "tube"
@@ -925,6 +938,10 @@
     "contact solution":{
         "department": "aisle 40",
         "unit": "bottle"
+    },
+    "Anthony itchy ball spray":{
+        "department": "aisle 40",
+        "unit": "can"
     },
 
     "ice cream":{

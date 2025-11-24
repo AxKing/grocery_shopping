@@ -1,11 +1,14 @@
 [
     ["Anthony bodywash",1],
     ["Anthony deodorant", 2],
+    ["Anthony itchy ball spray",1],
     ["Anthony shampoo", 1],
+    ["Anthony toothbrush",1],
     ["Anthony loofah", 1],
     ["Kaylee bodywash",1],
     ["Kaylee body scrub",1],
     ["Kaylee deodorant", 1],
+    ["Kaylee toothbrush",1],
     ["Kaylee shampoo", 1],
     ["Kaylee conditioner",1],
     ["Kaylee loofah", 1],
@@ -16,5 +19,6 @@
     ["toothpaste", 1],
     ["dental floss", 1],
     ["Q-tips", 1],
-    ["cotton rounds", 1]
+    ["cotton rounds", 1],
+    ["Oxy pads",1]
 ]
